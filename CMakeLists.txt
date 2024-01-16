@@ -24,5 +24,9 @@ install(DIRECTORY .
   PATTERN "*.STL"
 )
 
+install(DIRECTORY launch
+  DESTINATION ${CATKIN_PACKAGE_SHARE_DESTINATION}
+)
+
 catkin_install_python(PROGRAMS scripts/detect_pcan.py
   DESTINATION ${CATKIN_PACKAGE_BIN_DESTINATION})
