@@ -642,7 +642,7 @@
   <joint name="index_fingertip_attach_joint" type="fixed">
     <parent link="link_3"/>
     <child link="index_fingertip_base"/>
-    <origin rpy="0 0 0" xyz="0 0 0.0535"/>
+    <origin rpy="0 0 0" xyz="0 0 0.0552"/>
     <axis xyz="0 0 1"/>
   </joint>
   <link name="index_A11_taxel">
@@ -2896,7 +2896,7 @@
   <joint name="middle_fingertip_attach_joint" type="fixed">
     <parent link="link_7"/>
     <child link="middle_fingertip_base"/>
-    <origin rpy="0 0 0" xyz="0 0 0.0535"/>
+    <origin rpy="0 0 0" xyz="0 0 0.0552"/>
     <axis xyz="0 0 1"/>
   </joint>
   <link name="middle_A11_taxel">
@@ -5150,7 +5150,7 @@
   <joint name="ring_fingertip_attach_joint" type="fixed">
     <parent link="link_11"/>
     <child link="ring_fingertip_base"/>
-    <origin rpy="0 0 0" xyz="0 0 0.0535"/>
+    <origin rpy="0 0 0" xyz="0 0 0.0552"/>
     <axis xyz="0 0 1"/>
   </joint>
   <link name="ring_A11_taxel">
@@ -7404,7 +7404,7 @@
   <joint name="thumb_fingertip_attach_joint" type="fixed">
     <parent link="link_15"/>
     <child link="thumb_fingertip_base"/>
-    <origin rpy="0 0 0" xyz="0 0 0.0695"/>
+    <origin rpy="0 0 0" xyz="0 0 0.0712"/>
     <axis xyz="0 0 1"/>
   </joint>
   <link name="thumb_A11_taxel">
