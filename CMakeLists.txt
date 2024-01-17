@@ -3,6 +3,10 @@ project(allegro_hand_description)
 
 find_package(catkin REQUIRED)
 
+find_package(catkin REQUIRED COMPONENTS
+  xacro
+)
+
 # Declare a package.
 catkin_package(
 #  INCLUDE_DIRS include
@@ -24,9 +28,13 @@ install(DIRECTORY .
   PATTERN "*.STL"
 )
 
-install(DIRECTORY launch
+install(DIRECTORY launch config
   DESTINATION ${CATKIN_PACKAGE_SHARE_DESTINATION}
 )
 
-catkin_install_python(PROGRAMS scripts/detect_pcan.py
-  DESTINATION ${CATKIN_PACKAGE_BIN_DESTINATION})
+file(GLOB xacro_files urdf/*.urdf.xacro)
+xacro_add_files(${xacro_files} TARGET urdf INSTALL)
+
+install(DIRECTORY urdf
+  DESTINATION ${CATKIN_PACKAGE_SHARE_DESTINATION}
+)

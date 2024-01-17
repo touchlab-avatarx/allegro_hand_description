@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<robot xmlns:xacro="http://wiki.ros.org/xacro" name="left_honda">
+
+    <xacro:include filename="$(find allegro_hand_description)/urdf/allegro_hand_description_left.xacro"/>"
+    <xacro:include filename="$(find touchlab_description)/urdf/fingertip.xacro"/>"
+
+    <!-- 0.0155 + 0.038-->
+    <xacro:touchlab_fingertip prefix="index_" parent="link_${0*4+3}" size="0.0001">
+        <origin xyz="0 0 0.0535" rpy="0 0 0"/>
+    </xacro:touchlab_fingertip>
+
+    <xacro:touchlab_fingertip prefix="middle_" parent="link_${1*4+3}" size="0.0001">
+        <origin xyz="0 0 0.0535" rpy="0 0 0"/>
+    </xacro:touchlab_fingertip>
+
+    <xacro:touchlab_fingertip prefix="ring_" parent="link_${2*4+3}" size="0.0001">
+        <origin xyz="0 0 0.0535" rpy="0 0 0"/>
+    </xacro:touchlab_fingertip>
+
+    <!-- 0.0315 + 0.038-->
+    <xacro:touchlab_fingertip prefix="thumb_" parent="link_${3*4+3}" size="0.0001">
+        <origin xyz="0 0 0.0695" rpy="0 0 0"/>
+    </xacro:touchlab_fingertip>
+
+</robot>

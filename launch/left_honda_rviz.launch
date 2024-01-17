@@ -3,7 +3,6 @@
         Visualization of the allegro hand using rviz. Can be launched separately
         or by including it in another launch file.
     -->
-
     <arg name="HAND" default="left"/>
 
     <arg name="NUM" default='0'/>
@@ -13,11 +12,11 @@
     <node pkg="robot_state_publisher" type="robot_state_publisher" name="robot_state_publisher" output="screen" ></node>
 
     <param name="robot_description"
-         command="xacro $(find allegro_hand_description)/urdf/allegro_hand_description_$(arg HAND).xacro"/>
+         command="xacro $(find allegro_hand_description)/urdf/left_honda.urdf.xacro"/>
 
     <node name="rviz_$(arg NUM)"
           pkg="rviz" type="rviz"
-          args="-d $(find allegro_hand_description)/config/allegro_hand_config.rviz" >
+          args="-d $(find allegro_hand_description)config/allegro_hand_and_finger_tips.rviz" >
       <!-- <remap from="/tf" to="/allegroHand_$(arg NUM)/tf"/> -->
     </node>
 

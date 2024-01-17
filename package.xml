@@ -1,21 +1,18 @@
 <?xml version="1.0"?>
-<package>
+<package format="3">
     <name>allegro_hand_description</name>
     <version>0.0.0</version>
     <description>Allegro hand models.</description>
 
-    <!-- One maintainer tag required, multiple allowed, one person per tag -->
-    <maintainer email="felix.duvallet@epfl.ch">Felix Duvallet</maintainer>
-
     <buildtool_depend>catkin</buildtool_depend>
+    <depend>xacro</depend>
+    <depend>touchlab_description</depend>
+    <maintainer email="shayne@touchlab.io">Shayne Shaw</maintainer>
 
-    <!-- One license tag required, multiple allowed, one license per tag -->
-    <!-- Commonly used license strings: -->
-    <!--   BSD, MIT, Boost Software License, GPLv2, GPLv3, LGPLv2.1, LGPLv3 -->
-    <license>TODO</license>
-    <!-- The export tag contains other, unspecified, tags -->
+
+    <license>Touchlab Limited</license>
+
     <export>
-        <!-- Other tools can request additional information be placed here -->
 
     </export>
 </package>

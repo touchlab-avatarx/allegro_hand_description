@@ -207,7 +207,7 @@
         </joint>
 
         <!-- [FINGER TIP] -->
-        <link name="link_${finger_num*4+3}_tip">
+        <!-- <link name="link_${finger_num*4+3}_tip">
             <visual>
                 <origin xyz="0 0 0" rpy="1.57 0 1.57"/>
                 <geometry>
@@ -233,13 +233,13 @@
                        iyy="9.68e-07" iyz="0"
                        izz="9.68e-07" />
             </inertial>
-        </link>
+        </link> -->
 
-        <joint name="joint_${finger_num*4+3}_tip" type="fixed">
+        <!-- <joint name="joint_${finger_num*4+3}_tip" type="fixed">
             <parent link="link_${finger_num*4+3}"/>
             <child link="link_${finger_num*4+3}_tip"/>
             <origin rpy="0 0 0" xyz="0 0 0.0315"/>
-        </joint>
+        </joint> -->
     </xacro:macro>
     <!-- END THUMB MACRO -->
 
@@ -392,7 +392,7 @@
         </joint>
 
         <!-- [FINGER TIP] -->
-        <link name="link_${finger_num*4+3}_tip">
+        <!-- <link name="link_${finger_num*4+3}_tip">
             <visual>
                 <origin xyz="0 0 0" rpy="1.57 0 1.57"/>
                 <geometry>
@@ -416,13 +416,13 @@
                        iyy="9.68e-07" iyz="0"
                        izz="9.68e-07" />
             </inertial>
-        </link>
+        </link> -->
 
-        <joint name="joint_${finger_num*4+3}_tip" type="fixed">
+        <!-- <joint name="joint_${finger_num*4+3}_tip" type="fixed">
             <parent link="link_${finger_num*4+3}"/>
             <child link="link_${finger_num*4+3}_tip"/>
             <origin rpy="0 0 0" xyz="0 0 0.0155"/>
-        </joint>
+        </joint> -->
     </xacro:macro>
     <!-- [[END]] THREE FINGER MACRO -->
 
