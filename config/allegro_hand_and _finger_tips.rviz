@@ -1012,6 +1012,2586 @@ Visualization Manager:
       Update Interval: 0
       Value: true
       Visual Enabled: true
+    - Alpha: 1
+      Arrow Width: 0.009999999776482582
+      Class: rviz/WrenchStamped
+      Enabled: true
+      Force Arrow Scale: 0.0010000000474974513
+      Force Color: 204; 51; 51
+      Hide Small Values: false
+      History Length: 1
+      Name: WrenchStamped
+      Queue Size: 10
+      Topic: /thumb_00
+      Torque Arrow Scale: 2
+      Torque Color: 204; 204; 51
+      Unreliable: false
+      Value: true
+    - Alpha: 1
+      Arrow Width: 0.009999999776482582
+      Class: rviz/WrenchStamped
+      Enabled: true
+      Force Arrow Scale: 0.0010000000474974513
+      Force Color: 204; 51; 51
+      Hide Small Values: false
+      History Length: 1
+      Name: WrenchStamped
+      Queue Size: 10
+      Topic: /thumb_01
+      Torque Arrow Scale: 2
+      Torque Color: 204; 204; 51
+      Unreliable: false
+      Value: true
+    - Alpha: 1
+      Arrow Width: 0.009999999776482582
+      Class: rviz/WrenchStamped
+      Enabled: true
+      Force Arrow Scale: 0.0010000000474974513
+      Force Color: 204; 51; 51
+      Hide Small Values: false
+      History Length: 1
+      Name: WrenchStamped
+      Queue Size: 10
+      Topic: /thumb_02
+      Torque Arrow Scale: 2
+      Torque Color: 204; 204; 51
+      Unreliable: false
+      Value: true
+    - Alpha: 1
+      Arrow Width: 0.009999999776482582
+      Class: rviz/WrenchStamped
+      Enabled: true
+      Force Arrow Scale: 0.0010000000474974513
+      Force Color: 204; 51; 51
+      Hide Small Values: false
+      History Length: 1
+      Name: WrenchStamped
+      Queue Size: 10
+      Topic: /thumb_03
+      Torque Arrow Scale: 2
+      Torque Color: 204; 204; 51
+      Unreliable: false
+      Value: true
+    - Alpha: 1
+      Arrow Width: 0.009999999776482582
+      Class: rviz/WrenchStamped
+      Enabled: true
+      Force Arrow Scale: 0.0010000000474974513
+      Force Color: 204; 51; 51
+      Hide Small Values: false
+      History Length: 1
+      Name: WrenchStamped
+      Queue Size: 10
+      Topic: /thumb_04
+      Torque Arrow Scale: 2
+      Torque Color: 204; 204; 51
+      Unreliable: false
+      Value: true
+    - Alpha: 1
+      Arrow Width: 0.009999999776482582
+      Class: rviz/WrenchStamped
+      Enabled: true
+      Force Arrow Scale: 0.0010000000474974513
+      Force Color: 204; 51; 51
+      Hide Small Values: false
+      History Length: 1
+      Name: WrenchStamped
+      Queue Size: 10
+      Topic: /thumb_05
+      Torque Arrow Scale: 2
+      Torque Color: 204; 204; 51
+      Unreliable: false
+      Value: true
+    - Alpha: 1
+      Arrow Width: 0.009999999776482582
+      Class: rviz/WrenchStamped
+      Enabled: true
+      Force Arrow Scale: 0.0010000000474974513
+      Force Color: 204; 51; 51
+      Hide Small Values: false
+      History Length: 1
+      Name: WrenchStamped
+      Queue Size: 10
+      Topic: /thumb_06
+      Torque Arrow Scale: 2
+      Torque Color: 204; 204; 51
+      Unreliable: false
+      Value: true
+    - Alpha: 1
+      Arrow Width: 0.009999999776482582
+      Class: rviz/WrenchStamped
+      Enabled: true
+      Force Arrow Scale: 0.0010000000474974513
+      Force Color: 204; 51; 51
+      Hide Small Values: false
+      History Length: 1
+      Name: WrenchStamped
+      Queue Size: 10
+      Topic: /thumb_07
+      Torque Arrow Scale: 2
+      Torque Color: 204; 204; 51
+      Unreliable: false
+      Value: true
+    - Alpha: 1
+      Arrow Width: 0.009999999776482582
+      Class: rviz/WrenchStamped
+      Enabled: true
+      Force Arrow Scale: 0.0010000000474974513
+      Force Color: 204; 51; 51
+      Hide Small Values: false
+      History Length: 1
+      Name: WrenchStamped
+      Queue Size: 10
+      Topic: /thumb_08
+      Torque Arrow Scale: 2
+      Torque Color: 204; 204; 51
+      Unreliable: false
+      Value: true
+    - Alpha: 1
+      Arrow Width: 0.009999999776482582
+      Class: rviz/WrenchStamped
+      Enabled: true
+      Force Arrow Scale: 0.0010000000474974513
+      Force Color: 204; 51; 51
+      Hide Small Values: false
+      History Length: 1
+      Name: WrenchStamped
+      Queue Size: 10
+      Topic: /thumb_09
+      Torque Arrow Scale: 2
+      Torque Color: 204; 204; 51
+      Unreliable: false
+      Value: true
+    - Alpha: 1
+      Arrow Width: 0.009999999776482582
+      Class: rviz/WrenchStamped
+      Enabled: true
+      Force Arrow Scale: 0.0010000000474974513
+      Force Color: 204; 51; 51
+      Hide Small Values: false
+      History Length: 1
+      Name: WrenchStamped
+      Queue Size: 10
+      Topic: /thumb_10
+      Torque Arrow Scale: 2
+      Torque Color: 204; 204; 51
+      Unreliable: false
+      Value: true
+    - Alpha: 1
+      Arrow Width: 0.009999999776482582
+      Class: rviz/WrenchStamped
+      Enabled: true
+      Force Arrow Scale: 0.0010000000474974513
+      Force Color: 204; 51; 51
+      Hide Small Values: false
+      History Length: 1
+      Name: WrenchStamped
+      Queue Size: 10
+      Topic: /thumb_11
+      Torque Arrow Scale: 2
+      Torque Color: 204; 204; 51
+      Unreliable: false
+      Value: true
+    - Alpha: 1
+      Arrow Width: 0.009999999776482582
+      Class: rviz/WrenchStamped
+      Enabled: true
+      Force Arrow Scale: 0.0010000000474974513
+      Force Color: 204; 51; 51
+      Hide Small Values: false
+      History Length: 1
+      Name: WrenchStamped
+      Queue Size: 10
+      Topic: /thumb_12
+      Torque Arrow Scale: 2
+      Torque Color: 204; 204; 51
+      Unreliable: false
+      Value: true
+    - Alpha: 1
+      Arrow Width: 0.009999999776482582
+      Class: rviz/WrenchStamped
+      Enabled: true
+      Force Arrow Scale: 0.0010000000474974513
+      Force Color: 204; 51; 51
+      Hide Small Values: false
+      History Length: 1
+      Name: WrenchStamped
+      Queue Size: 10
+      Topic: /thumb_13
+      Torque Arrow Scale: 2
+      Torque Color: 204; 204; 51
+      Unreliable: false
+      Value: true
+    - Alpha: 1
+      Arrow Width: 0.009999999776482582
+      Class: rviz/WrenchStamped
+      Enabled: true
+      Force Arrow Scale: 0.0010000000474974513
+      Force Color: 204; 51; 51
+      Hide Small Values: false
+      History Length: 1
+      Name: WrenchStamped
+      Queue Size: 10
+      Topic: /thumb_14
+      Torque Arrow Scale: 2
+      Torque Color: 204; 204; 51
+      Unreliable: false
+      Value: true
+    - Alpha: 1
+      Arrow Width: 0.009999999776482582
+      Class: rviz/WrenchStamped
+      Enabled: true
+      Force Arrow Scale: 0.0010000000474974513
+      Force Color: 204; 51; 51
+      Hide Small Values: false
+      History Length: 1
+      Name: WrenchStamped
+      Queue Size: 10
+      Topic: /thumb_15
+      Torque Arrow Scale: 2
+      Torque Color: 204; 204; 51
+      Unreliable: false
+      Value: true
+    - Alpha: 1
+      Arrow Width: 0.009999999776482582
+      Class: rviz/WrenchStamped
+      Enabled: true
+      Force Arrow Scale: 0.0010000000474974513
+      Force Color: 204; 51; 51
+      Hide Small Values: false
+      History Length: 1
+      Name: WrenchStamped
+      Queue Size: 10
+      Topic: /thumb_16
+      Torque Arrow Scale: 2
+      Torque Color: 204; 204; 51
+      Unreliable: false
+      Value: true
+    - Alpha: 1
+      Arrow Width: 0.009999999776482582
+      Class: rviz/WrenchStamped
+      Enabled: true
+      Force Arrow Scale: 0.0010000000474974513
+      Force Color: 204; 51; 51
+      Hide Small Values: false
+      History Length: 1
+      Name: WrenchStamped
+      Queue Size: 10
+      Topic: /thumb_17
+      Torque Arrow Scale: 2
+      Torque Color: 204; 204; 51
+      Unreliable: false
+      Value: true
+    - Alpha: 1
+      Arrow Width: 0.009999999776482582
+      Class: rviz/WrenchStamped
+      Enabled: true
+      Force Arrow Scale: 0.0010000000474974513
+      Force Color: 204; 51; 51
+      Hide Small Values: false
+      History Length: 1
+      Name: WrenchStamped
+      Queue Size: 10
+      Topic: /thumb_18
+      Torque Arrow Scale: 2
+      Torque Color: 204; 204; 51
+      Unreliable: false
+      Value: true
+    - Alpha: 1
+      Arrow Width: 0.009999999776482582
+      Class: rviz/WrenchStamped
+      Enabled: true
+      Force Arrow Scale: 0.0010000000474974513
+      Force Color: 204; 51; 51
+      Hide Small Values: false
+      History Length: 1
+      Name: WrenchStamped
+      Queue Size: 10
+      Topic: /thumb_19
+      Torque Arrow Scale: 2
+      Torque Color: 204; 204; 51
+      Unreliable: false
+      Value: true
+    - Alpha: 1
+      Arrow Width: 0.009999999776482582
+      Class: rviz/WrenchStamped
+      Enabled: true
+      Force Arrow Scale: 0.0010000000474974513
+      Force Color: 204; 51; 51
+      Hide Small Values: false
+      History Length: 1
+      Name: WrenchStamped
+      Queue Size: 10
+      Topic: /thumb_20
+      Torque Arrow Scale: 2
+      Torque Color: 204; 204; 51
+      Unreliable: false
+      Value: true
+    - Alpha: 1
+      Arrow Width: 0.009999999776482582
+      Class: rviz/WrenchStamped
+      Enabled: true
+      Force Arrow Scale: 0.0010000000474974513
+      Force Color: 204; 51; 51
+      Hide Small Values: false
+      History Length: 1
+      Name: WrenchStamped
+      Queue Size: 10
+      Topic: /thumb_21
+      Torque Arrow Scale: 2
+      Torque Color: 204; 204; 51
+      Unreliable: false
+      Value: true
+    - Alpha: 1
+      Arrow Width: 0.009999999776482582
+      Class: rviz/WrenchStamped
+      Enabled: true
+      Force Arrow Scale: 0.0010000000474974513
+      Force Color: 204; 51; 51
+      Hide Small Values: false
+      History Length: 1
+      Name: WrenchStamped
+      Queue Size: 10
+      Topic: /thumb_21
+      Torque Arrow Scale: 2
+      Torque Color: 204; 204; 51
+      Unreliable: false
+      Value: true
+    - Alpha: 1
+      Arrow Width: 0.009999999776482582
+      Class: rviz/WrenchStamped
+      Enabled: true
+      Force Arrow Scale: 0.0010000000474974513
+      Force Color: 204; 51; 51
+      Hide Small Values: false
+      History Length: 1
+      Name: WrenchStamped
+      Queue Size: 10
+      Topic: /thumb_22
+      Torque Arrow Scale: 2
+      Torque Color: 204; 204; 51
+      Unreliable: false
+      Value: true
+    - Alpha: 1
+      Arrow Width: 0.009999999776482582
+      Class: rviz/WrenchStamped
+      Enabled: true
+      Force Arrow Scale: 0.0010000000474974513
+      Force Color: 204; 51; 51
+      Hide Small Values: false
+      History Length: 1
+      Name: WrenchStamped
+      Queue Size: 10
+      Topic: /thumb_23
+      Torque Arrow Scale: 2
+      Torque Color: 204; 204; 51
+      Unreliable: false
+      Value: true
+    - Alpha: 1
+      Arrow Width: 0.009999999776482582
+      Class: rviz/WrenchStamped
+      Enabled: true
+      Force Arrow Scale: 0.0010000000474974513
+      Force Color: 204; 51; 51
+      Hide Small Values: false
+      History Length: 1
+      Name: WrenchStamped
+      Queue Size: 10
+      Topic: /thumb_24
+      Torque Arrow Scale: 2
+      Torque Color: 204; 204; 51
+      Unreliable: false
+      Value: true
+    - Alpha: 1
+      Arrow Width: 0.009999999776482582
+      Class: rviz/WrenchStamped
+      Enabled: true
+      Force Arrow Scale: 0.0010000000474974513
+      Force Color: 204; 51; 51
+      Hide Small Values: false
+      History Length: 1
+      Name: WrenchStamped
+      Queue Size: 10
+      Topic: /thumb_25
+      Torque Arrow Scale: 2
+      Torque Color: 204; 204; 51
+      Unreliable: false
+      Value: true
+    - Alpha: 1
+      Arrow Width: 0.009999999776482582
+      Class: rviz/WrenchStamped
+      Enabled: true
+      Force Arrow Scale: 0.0010000000474974513
+      Force Color: 204; 51; 51
+      Hide Small Values: false
+      History Length: 1
+      Name: WrenchStamped
+      Queue Size: 10
+      Topic: /thumb_26
+      Torque Arrow Scale: 2
+      Torque Color: 204; 204; 51
+      Unreliable: false
+      Value: true
+    - Alpha: 1
+      Arrow Width: 0.009999999776482582
+      Class: rviz/WrenchStamped
+      Enabled: true
+      Force Arrow Scale: 0.0010000000474974513
+      Force Color: 204; 51; 51
+      Hide Small Values: false
+      History Length: 1
+      Name: WrenchStamped
+      Queue Size: 10
+      Topic: /thumb_27
+      Torque Arrow Scale: 2
+      Torque Color: 204; 204; 51
+      Unreliable: false
+      Value: true
+    - Alpha: 1
+      Arrow Width: 0.009999999776482582
+      Class: rviz/WrenchStamped
+      Enabled: true
+      Force Arrow Scale: 0.0010000000474974513
+      Force Color: 204; 51; 51
+      Hide Small Values: false
+      History Length: 1
+      Name: WrenchStamped
+      Queue Size: 10
+      Topic: /thumb_28
+      Torque Arrow Scale: 2
+      Torque Color: 204; 204; 51
+      Unreliable: false
+      Value: true
+    - Alpha: 1
+      Arrow Width: 0.009999999776482582
+      Class: rviz/WrenchStamped
+      Enabled: true
+      Force Arrow Scale: 0.0010000000474974513
+      Force Color: 204; 51; 51
+      Hide Small Values: false
+      History Length: 1
+      Name: WrenchStamped
+      Queue Size: 10
+      Topic: /thumb_29
+      Torque Arrow Scale: 2
+      Torque Color: 204; 204; 51
+      Unreliable: false
+      Value: true
+    - Alpha: 1
+      Arrow Width: 0.009999999776482582
+      Class: rviz/WrenchStamped
+      Enabled: true
+      Force Arrow Scale: 0.0010000000474974513
+      Force Color: 204; 51; 51
+      Hide Small Values: false
+      History Length: 1
+      Name: WrenchStamped
+      Queue Size: 10
+      Topic: /thumb_30
+      Torque Arrow Scale: 2
+      Torque Color: 204; 204; 51
+      Unreliable: false
+      Value: true
+    - Alpha: 1
+      Arrow Width: 0.009999999776482582
+      Class: rviz/WrenchStamped
+      Enabled: true
+      Force Arrow Scale: 0.0010000000474974513
+      Force Color: 204; 51; 51
+      Hide Small Values: false
+      History Length: 1
+      Name: WrenchStamped
+      Queue Size: 10
+      Topic: /thumb_31
+      Torque Arrow Scale: 2
+      Torque Color: 204; 204; 51
+      Unreliable: false
+      Value: true
+    - Alpha: 1
+      Arrow Width: 0.009999999776482582
+      Class: rviz/WrenchStamped
+      Enabled: true
+      Force Arrow Scale: 0.0010000000474974513
+      Force Color: 204; 51; 51
+      Hide Small Values: false
+      History Length: 1
+      Name: WrenchStamped
+      Queue Size: 10
+      Topic: /thumb_32
+      Torque Arrow Scale: 2
+      Torque Color: 204; 204; 51
+      Unreliable: false
+      Value: true
+    - Alpha: 1
+      Arrow Width: 0.009999999776482582
+      Class: rviz/WrenchStamped
+      Enabled: true
+      Force Arrow Scale: 0.0010000000474974513
+      Force Color: 204; 51; 51
+      Hide Small Values: false
+      History Length: 1
+      Name: WrenchStamped
+      Queue Size: 10
+      Topic: /thumb_33
+      Torque Arrow Scale: 2
+      Torque Color: 204; 204; 51
+      Unreliable: false
+      Value: true
+    - Alpha: 1
+      Arrow Width: 0.009999999776482582
+      Class: rviz/WrenchStamped
+      Enabled: true
+      Force Arrow Scale: 0.0010000000474974513
+      Force Color: 204; 51; 51
+      Hide Small Values: false
+      History Length: 1
+      Name: WrenchStamped
+      Queue Size: 10
+      Topic: /thumb_34
+      Torque Arrow Scale: 2
+      Torque Color: 204; 204; 51
+      Unreliable: false
+      Value: true
+    - Alpha: 1
+      Arrow Width: 0.009999999776482582
+      Class: rviz/WrenchStamped
+      Enabled: true
+      Force Arrow Scale: 0.0010000000474974513
+      Force Color: 204; 51; 51
+      Hide Small Values: false
+      History Length: 1
+      Name: WrenchStamped
+      Queue Size: 10
+      Topic: /thumb_35
+      Torque Arrow Scale: 2
+      Torque Color: 204; 204; 51
+      Unreliable: false
+      Value: true
+    - Alpha: 1
+      Arrow Width: 0.009999999776482582
+      Class: rviz/WrenchStamped
+      Enabled: true
+      Force Arrow Scale: 0.0010000000474974513
+      Force Color: 204; 51; 51
+      Hide Small Values: false
+      History Length: 1
+      Name: WrenchStamped
+      Queue Size: 10
+      Topic: /thumb_36
+      Torque Arrow Scale: 2
+      Torque Color: 204; 204; 51
+      Unreliable: false
+      Value: true
+    - Alpha: 1
+      Arrow Width: 0.009999999776482582
+      Class: rviz/WrenchStamped
+      Enabled: true
+      Force Arrow Scale: 0.0010000000474974513
+      Force Color: 204; 51; 51
+      Hide Small Values: false
+      History Length: 1
+      Name: WrenchStamped
+      Queue Size: 10
+      Topic: /thumb_37
+      Torque Arrow Scale: 2
+      Torque Color: 204; 204; 51
+      Unreliable: false
+      Value: true
+    - Alpha: 1
+      Arrow Width: 0.009999999776482582
+      Class: rviz/WrenchStamped
+      Enabled: true
+      Force Arrow Scale: 0.0010000000474974513
+      Force Color: 204; 51; 51
+      Hide Small Values: false
+      History Length: 1
+      Name: WrenchStamped
+      Queue Size: 10
+      Topic: /thumb_38
+      Torque Arrow Scale: 2
+      Torque Color: 204; 204; 51
+      Unreliable: false
+      Value: true
+    - Alpha: 1
+      Arrow Width: 0.009999999776482582
+      Class: rviz/WrenchStamped
+      Enabled: true
+      Force Arrow Scale: 0.0010000000474974513
+      Force Color: 204; 51; 51
+      Hide Small Values: false
+      History Length: 1
+      Name: WrenchStamped
+      Queue Size: 10
+      Topic: /thumb_39
+      Torque Arrow Scale: 2
+      Torque Color: 204; 204; 51
+      Unreliable: false
+      Value: true
+    - Alpha: 1
+      Arrow Width: 0.009999999776482582
+      Class: rviz/WrenchStamped
+      Enabled: true
+      Force Arrow Scale: 0.0010000000474974513
+      Force Color: 204; 51; 51
+      Hide Small Values: false
+      History Length: 1
+      Name: WrenchStamped
+      Queue Size: 10
+      Topic: /thumb_40
+      Torque Arrow Scale: 2
+      Torque Color: 204; 204; 51
+      Unreliable: false
+      Value: true
+    - Alpha: 1
+      Arrow Width: 0.009999999776482582
+      Class: rviz/WrenchStamped
+      Enabled: true
+      Force Arrow Scale: 0.0010000000474974513
+      Force Color: 204; 51; 51
+      Hide Small Values: false
+      History Length: 1
+      Name: WrenchStamped
+      Queue Size: 10
+      Topic: /thumb_41
+      Torque Arrow Scale: 2
+      Torque Color: 204; 204; 51
+      Unreliable: false
+      Value: true
+    - Alpha: 1
+      Arrow Width: 0.009999999776482582
+      Class: rviz/WrenchStamped
+      Enabled: true
+      Force Arrow Scale: 0.0010000000474974513
+      Force Color: 204; 51; 51
+      Hide Small Values: false
+      History Length: 1
+      Name: WrenchStamped
+      Queue Size: 10
+      Topic: /index_00
+      Torque Arrow Scale: 2
+      Torque Color: 204; 204; 51
+      Unreliable: false
+      Value: true
+    - Alpha: 1
+      Arrow Width: 0.009999999776482582
+      Class: rviz/WrenchStamped
+      Enabled: true
+      Force Arrow Scale: 0.0010000000474974513
+      Force Color: 204; 51; 51
+      Hide Small Values: false
+      History Length: 1
+      Name: WrenchStamped
+      Queue Size: 10
+      Topic: /index_01
+      Torque Arrow Scale: 2
+      Torque Color: 204; 204; 51
+      Unreliable: false
+      Value: true
+    - Alpha: 1
+      Arrow Width: 0.009999999776482582
+      Class: rviz/WrenchStamped
+      Enabled: true
+      Force Arrow Scale: 0.0010000000474974513
+      Force Color: 204; 51; 51
+      Hide Small Values: false
+      History Length: 1
+      Name: WrenchStamped
+      Queue Size: 10
+      Topic: /index_02
+      Torque Arrow Scale: 2
+      Torque Color: 204; 204; 51
+      Unreliable: false
+      Value: true
+    - Alpha: 1
+      Arrow Width: 0.009999999776482582
+      Class: rviz/WrenchStamped
+      Enabled: true
+      Force Arrow Scale: 0.0010000000474974513
+      Force Color: 204; 51; 51
+      Hide Small Values: false
+      History Length: 1
+      Name: WrenchStamped
+      Queue Size: 10
+      Topic: /index_03
+      Torque Arrow Scale: 2
+      Torque Color: 204; 204; 51
+      Unreliable: false
+      Value: true
+    - Alpha: 1
+      Arrow Width: 0.009999999776482582
+      Class: rviz/WrenchStamped
+      Enabled: true
+      Force Arrow Scale: 0.0010000000474974513
+      Force Color: 204; 51; 51
+      Hide Small Values: false
+      History Length: 1
+      Name: WrenchStamped
+      Queue Size: 10
+      Topic: /index_04
+      Torque Arrow Scale: 2
+      Torque Color: 204; 204; 51
+      Unreliable: false
+      Value: true
+    - Alpha: 1
+      Arrow Width: 0.009999999776482582
+      Class: rviz/WrenchStamped
+      Enabled: true
+      Force Arrow Scale: 0.0010000000474974513
+      Force Color: 204; 51; 51
+      Hide Small Values: false
+      History Length: 1
+      Name: WrenchStamped
+      Queue Size: 10
+      Topic: /index_05
+      Torque Arrow Scale: 2
+      Torque Color: 204; 204; 51
+      Unreliable: false
+      Value: true
+    - Alpha: 1
+      Arrow Width: 0.009999999776482582
+      Class: rviz/WrenchStamped
+      Enabled: true
+      Force Arrow Scale: 0.0010000000474974513
+      Force Color: 204; 51; 51
+      Hide Small Values: false
+      History Length: 1
+      Name: WrenchStamped
+      Queue Size: 10
+      Topic: /index_06
+      Torque Arrow Scale: 2
+      Torque Color: 204; 204; 51
+      Unreliable: false
+      Value: true
+    - Alpha: 1
+      Arrow Width: 0.009999999776482582
+      Class: rviz/WrenchStamped
+      Enabled: true
+      Force Arrow Scale: 0.0010000000474974513
+      Force Color: 204; 51; 51
+      Hide Small Values: false
+      History Length: 1
+      Name: WrenchStamped
+      Queue Size: 10
+      Topic: /index_07
+      Torque Arrow Scale: 2
+      Torque Color: 204; 204; 51
+      Unreliable: false
+      Value: true
+    - Alpha: 1
+      Arrow Width: 0.009999999776482582
+      Class: rviz/WrenchStamped
+      Enabled: true
+      Force Arrow Scale: 0.0010000000474974513
+      Force Color: 204; 51; 51
+      Hide Small Values: false
+      History Length: 1
+      Name: WrenchStamped
+      Queue Size: 10
+      Topic: /index_08
+      Torque Arrow Scale: 2
+      Torque Color: 204; 204; 51
+      Unreliable: false
+      Value: true
+    - Alpha: 1
+      Arrow Width: 0.009999999776482582
+      Class: rviz/WrenchStamped
+      Enabled: true
+      Force Arrow Scale: 0.0010000000474974513
+      Force Color: 204; 51; 51
+      Hide Small Values: false
+      History Length: 1
+      Name: WrenchStamped
+      Queue Size: 10
+      Topic: /index_09
+      Torque Arrow Scale: 2
+      Torque Color: 204; 204; 51
+      Unreliable: false
+      Value: true
+    - Alpha: 1
+      Arrow Width: 0.009999999776482582
+      Class: rviz/WrenchStamped
+      Enabled: true
+      Force Arrow Scale: 0.0010000000474974513
+      Force Color: 204; 51; 51
+      Hide Small Values: false
+      History Length: 1
+      Name: WrenchStamped
+      Queue Size: 10
+      Topic: /index_10
+      Torque Arrow Scale: 2
+      Torque Color: 204; 204; 51
+      Unreliable: false
+      Value: true
+    - Alpha: 1
+      Arrow Width: 0.009999999776482582
+      Class: rviz/WrenchStamped
+      Enabled: true
+      Force Arrow Scale: 0.0010000000474974513
+      Force Color: 204; 51; 51
+      Hide Small Values: false
+      History Length: 1
+      Name: WrenchStamped
+      Queue Size: 10
+      Topic: /index_11
+      Torque Arrow Scale: 2
+      Torque Color: 204; 204; 51
+      Unreliable: false
+      Value: true
+    - Alpha: 1
+      Arrow Width: 0.009999999776482582
+      Class: rviz/WrenchStamped
+      Enabled: true
+      Force Arrow Scale: 0.0010000000474974513
+      Force Color: 204; 51; 51
+      Hide Small Values: false
+      History Length: 1
+      Name: WrenchStamped
+      Queue Size: 10
+      Topic: /index_12
+      Torque Arrow Scale: 2
+      Torque Color: 204; 204; 51
+      Unreliable: false
+      Value: true
+    - Alpha: 1
+      Arrow Width: 0.009999999776482582
+      Class: rviz/WrenchStamped
+      Enabled: true
+      Force Arrow Scale: 0.0010000000474974513
+      Force Color: 204; 51; 51
+      Hide Small Values: false
+      History Length: 1
+      Name: WrenchStamped
+      Queue Size: 10
+      Topic: /index_13
+      Torque Arrow Scale: 2
+      Torque Color: 204; 204; 51
+      Unreliable: false
+      Value: true
+    - Alpha: 1
+      Arrow Width: 0.009999999776482582
+      Class: rviz/WrenchStamped
+      Enabled: true
+      Force Arrow Scale: 0.0010000000474974513
+      Force Color: 204; 51; 51
+      Hide Small Values: false
+      History Length: 1
+      Name: WrenchStamped
+      Queue Size: 10
+      Topic: /index_14
+      Torque Arrow Scale: 2
+      Torque Color: 204; 204; 51
+      Unreliable: false
+      Value: true
+    - Alpha: 1
+      Arrow Width: 0.009999999776482582
+      Class: rviz/WrenchStamped
+      Enabled: true
+      Force Arrow Scale: 0.0010000000474974513
+      Force Color: 204; 51; 51
+      Hide Small Values: false
+      History Length: 1
+      Name: WrenchStamped
+      Queue Size: 10
+      Topic: /index_15
+      Torque Arrow Scale: 2
+      Torque Color: 204; 204; 51
+      Unreliable: false
+      Value: true
+    - Alpha: 1
+      Arrow Width: 0.009999999776482582
+      Class: rviz/WrenchStamped
+      Enabled: true
+      Force Arrow Scale: 0.0010000000474974513
+      Force Color: 204; 51; 51
+      Hide Small Values: false
+      History Length: 1
+      Name: WrenchStamped
+      Queue Size: 10
+      Topic: /index_16
+      Torque Arrow Scale: 2
+      Torque Color: 204; 204; 51
+      Unreliable: false
+      Value: true
+    - Alpha: 1
+      Arrow Width: 0.009999999776482582
+      Class: rviz/WrenchStamped
+      Enabled: true
+      Force Arrow Scale: 0.0010000000474974513
+      Force Color: 204; 51; 51
+      Hide Small Values: false
+      History Length: 1
+      Name: WrenchStamped
+      Queue Size: 10
+      Topic: /index_17
+      Torque Arrow Scale: 2
+      Torque Color: 204; 204; 51
+      Unreliable: false
+      Value: true
+    - Alpha: 1
+      Arrow Width: 0.009999999776482582
+      Class: rviz/WrenchStamped
+      Enabled: true
+      Force Arrow Scale: 0.0010000000474974513
+      Force Color: 204; 51; 51
+      Hide Small Values: false
+      History Length: 1
+      Name: WrenchStamped
+      Queue Size: 10
+      Topic: /index_18
+      Torque Arrow Scale: 2
+      Torque Color: 204; 204; 51
+      Unreliable: false
+      Value: true
+    - Alpha: 1
+      Arrow Width: 0.009999999776482582
+      Class: rviz/WrenchStamped
+      Enabled: true
+      Force Arrow Scale: 0.0010000000474974513
+      Force Color: 204; 51; 51
+      Hide Small Values: false
+      History Length: 1
+      Name: WrenchStamped
+      Queue Size: 10
+      Topic: /index_19
+      Torque Arrow Scale: 2
+      Torque Color: 204; 204; 51
+      Unreliable: false
+      Value: true
+    - Alpha: 1
+      Arrow Width: 0.009999999776482582
+      Class: rviz/WrenchStamped
+      Enabled: true
+      Force Arrow Scale: 0.0010000000474974513
+      Force Color: 204; 51; 51
+      Hide Small Values: false
+      History Length: 1
+      Name: WrenchStamped
+      Queue Size: 10
+      Topic: /index_20
+      Torque Arrow Scale: 2
+      Torque Color: 204; 204; 51
+      Unreliable: false
+      Value: true
+    - Alpha: 1
+      Arrow Width: 0.009999999776482582
+      Class: rviz/WrenchStamped
+      Enabled: true
+      Force Arrow Scale: 0.0010000000474974513
+      Force Color: 204; 51; 51
+      Hide Small Values: false
+      History Length: 1
+      Name: WrenchStamped
+      Queue Size: 10
+      Topic: /index_21
+      Torque Arrow Scale: 2
+      Torque Color: 204; 204; 51
+      Unreliable: false
+      Value: true
+    - Alpha: 1
+      Arrow Width: 0.009999999776482582
+      Class: rviz/WrenchStamped
+      Enabled: true
+      Force Arrow Scale: 0.0010000000474974513
+      Force Color: 204; 51; 51
+      Hide Small Values: false
+      History Length: 1
+      Name: WrenchStamped
+      Queue Size: 10
+      Topic: /index_21
+      Torque Arrow Scale: 2
+      Torque Color: 204; 204; 51
+      Unreliable: false
+      Value: true
+    - Alpha: 1
+      Arrow Width: 0.009999999776482582
+      Class: rviz/WrenchStamped
+      Enabled: true
+      Force Arrow Scale: 0.0010000000474974513
+      Force Color: 204; 51; 51
+      Hide Small Values: false
+      History Length: 1
+      Name: WrenchStamped
+      Queue Size: 10
+      Topic: /index_22
+      Torque Arrow Scale: 2
+      Torque Color: 204; 204; 51
+      Unreliable: false
+      Value: true
+    - Alpha: 1
+      Arrow Width: 0.009999999776482582
+      Class: rviz/WrenchStamped
+      Enabled: true
+      Force Arrow Scale: 0.0010000000474974513
+      Force Color: 204; 51; 51
+      Hide Small Values: false
+      History Length: 1
+      Name: WrenchStamped
+      Queue Size: 10
+      Topic: /index_23
+      Torque Arrow Scale: 2
+      Torque Color: 204; 204; 51
+      Unreliable: false
+      Value: true
+    - Alpha: 1
+      Arrow Width: 0.009999999776482582
+      Class: rviz/WrenchStamped
+      Enabled: true
+      Force Arrow Scale: 0.0010000000474974513
+      Force Color: 204; 51; 51
+      Hide Small Values: false
+      History Length: 1
+      Name: WrenchStamped
+      Queue Size: 10
+      Topic: /index_24
+      Torque Arrow Scale: 2
+      Torque Color: 204; 204; 51
+      Unreliable: false
+      Value: true
+    - Alpha: 1
+      Arrow Width: 0.009999999776482582
+      Class: rviz/WrenchStamped
+      Enabled: true
+      Force Arrow Scale: 0.0010000000474974513
+      Force Color: 204; 51; 51
+      Hide Small Values: false
+      History Length: 1
+      Name: WrenchStamped
+      Queue Size: 10
+      Topic: /index_25
+      Torque Arrow Scale: 2
+      Torque Color: 204; 204; 51
+      Unreliable: false
+      Value: true
+    - Alpha: 1
+      Arrow Width: 0.009999999776482582
+      Class: rviz/WrenchStamped
+      Enabled: true
+      Force Arrow Scale: 0.0010000000474974513
+      Force Color: 204; 51; 51
+      Hide Small Values: false
+      History Length: 1
+      Name: WrenchStamped
+      Queue Size: 10
+      Topic: /index_26
+      Torque Arrow Scale: 2
+      Torque Color: 204; 204; 51
+      Unreliable: false
+      Value: true
+    - Alpha: 1
+      Arrow Width: 0.009999999776482582
+      Class: rviz/WrenchStamped
+      Enabled: true
+      Force Arrow Scale: 0.0010000000474974513
+      Force Color: 204; 51; 51
+      Hide Small Values: false
+      History Length: 1
+      Name: WrenchStamped
+      Queue Size: 10
+      Topic: /index_27
+      Torque Arrow Scale: 2
+      Torque Color: 204; 204; 51
+      Unreliable: false
+      Value: true
+    - Alpha: 1
+      Arrow Width: 0.009999999776482582
+      Class: rviz/WrenchStamped
+      Enabled: true
+      Force Arrow Scale: 0.0010000000474974513
+      Force Color: 204; 51; 51
+      Hide Small Values: false
+      History Length: 1
+      Name: WrenchStamped
+      Queue Size: 10
+      Topic: /index_28
+      Torque Arrow Scale: 2
+      Torque Color: 204; 204; 51
+      Unreliable: false
+      Value: true
+    - Alpha: 1
+      Arrow Width: 0.009999999776482582
+      Class: rviz/WrenchStamped
+      Enabled: true
+      Force Arrow Scale: 0.0010000000474974513
+      Force Color: 204; 51; 51
+      Hide Small Values: false
+      History Length: 1
+      Name: WrenchStamped
+      Queue Size: 10
+      Topic: /index_29
+      Torque Arrow Scale: 2
+      Torque Color: 204; 204; 51
+      Unreliable: false
+      Value: true
+    - Alpha: 1
+      Arrow Width: 0.009999999776482582
+      Class: rviz/WrenchStamped
+      Enabled: true
+      Force Arrow Scale: 0.0010000000474974513
+      Force Color: 204; 51; 51
+      Hide Small Values: false
+      History Length: 1
+      Name: WrenchStamped
+      Queue Size: 10
+      Topic: /index_30
+      Torque Arrow Scale: 2
+      Torque Color: 204; 204; 51
+      Unreliable: false
+      Value: true
+    - Alpha: 1
+      Arrow Width: 0.009999999776482582
+      Class: rviz/WrenchStamped
+      Enabled: true
+      Force Arrow Scale: 0.0010000000474974513
+      Force Color: 204; 51; 51
+      Hide Small Values: false
+      History Length: 1
+      Name: WrenchStamped
+      Queue Size: 10
+      Topic: /index_31
+      Torque Arrow Scale: 2
+      Torque Color: 204; 204; 51
+      Unreliable: false
+      Value: true
+    - Alpha: 1
+      Arrow Width: 0.009999999776482582
+      Class: rviz/WrenchStamped
+      Enabled: true
+      Force Arrow Scale: 0.0010000000474974513
+      Force Color: 204; 51; 51
+      Hide Small Values: false
+      History Length: 1
+      Name: WrenchStamped
+      Queue Size: 10
+      Topic: /index_32
+      Torque Arrow Scale: 2
+      Torque Color: 204; 204; 51
+      Unreliable: false
+      Value: true
+    - Alpha: 1
+      Arrow Width: 0.009999999776482582
+      Class: rviz/WrenchStamped
+      Enabled: true
+      Force Arrow Scale: 0.0010000000474974513
+      Force Color: 204; 51; 51
+      Hide Small Values: false
+      History Length: 1
+      Name: WrenchStamped
+      Queue Size: 10
+      Topic: /index_33
+      Torque Arrow Scale: 2
+      Torque Color: 204; 204; 51
+      Unreliable: false
+      Value: true
+    - Alpha: 1
+      Arrow Width: 0.009999999776482582
+      Class: rviz/WrenchStamped
+      Enabled: true
+      Force Arrow Scale: 0.0010000000474974513
+      Force Color: 204; 51; 51
+      Hide Small Values: false
+      History Length: 1
+      Name: WrenchStamped
+      Queue Size: 10
+      Topic: /index_34
+      Torque Arrow Scale: 2
+      Torque Color: 204; 204; 51
+      Unreliable: false
+      Value: true
+    - Alpha: 1
+      Arrow Width: 0.009999999776482582
+      Class: rviz/WrenchStamped
+      Enabled: true
+      Force Arrow Scale: 0.0010000000474974513
+      Force Color: 204; 51; 51
+      Hide Small Values: false
+      History Length: 1
+      Name: WrenchStamped
+      Queue Size: 10
+      Topic: /index_35
+      Torque Arrow Scale: 2
+      Torque Color: 204; 204; 51
+      Unreliable: false
+      Value: true
+    - Alpha: 1
+      Arrow Width: 0.009999999776482582
+      Class: rviz/WrenchStamped
+      Enabled: true
+      Force Arrow Scale: 0.0010000000474974513
+      Force Color: 204; 51; 51
+      Hide Small Values: false
+      History Length: 1
+      Name: WrenchStamped
+      Queue Size: 10
+      Topic: /index_36
+      Torque Arrow Scale: 2
+      Torque Color: 204; 204; 51
+      Unreliable: false
+      Value: true
+    - Alpha: 1
+      Arrow Width: 0.009999999776482582
+      Class: rviz/WrenchStamped
+      Enabled: true
+      Force Arrow Scale: 0.0010000000474974513
+      Force Color: 204; 51; 51
+      Hide Small Values: false
+      History Length: 1
+      Name: WrenchStamped
+      Queue Size: 10
+      Topic: /index_37
+      Torque Arrow Scale: 2
+      Torque Color: 204; 204; 51
+      Unreliable: false
+      Value: true
+    - Alpha: 1
+      Arrow Width: 0.009999999776482582
+      Class: rviz/WrenchStamped
+      Enabled: true
+      Force Arrow Scale: 0.0010000000474974513
+      Force Color: 204; 51; 51
+      Hide Small Values: false
+      History Length: 1
+      Name: WrenchStamped
+      Queue Size: 10
+      Topic: /index_38
+      Torque Arrow Scale: 2
+      Torque Color: 204; 204; 51
+      Unreliable: false
+      Value: true
+    - Alpha: 1
+      Arrow Width: 0.009999999776482582
+      Class: rviz/WrenchStamped
+      Enabled: true
+      Force Arrow Scale: 0.0010000000474974513
+      Force Color: 204; 51; 51
+      Hide Small Values: false
+      History Length: 1
+      Name: WrenchStamped
+      Queue Size: 10
+      Topic: /index_39
+      Torque Arrow Scale: 2
+      Torque Color: 204; 204; 51
+      Unreliable: false
+      Value: true
+    - Alpha: 1
+      Arrow Width: 0.009999999776482582
+      Class: rviz/WrenchStamped
+      Enabled: true
+      Force Arrow Scale: 0.0010000000474974513
+      Force Color: 204; 51; 51
+      Hide Small Values: false
+      History Length: 1
+      Name: WrenchStamped
+      Queue Size: 10
+      Topic: /index_40
+      Torque Arrow Scale: 2
+      Torque Color: 204; 204; 51
+      Unreliable: false
+      Value: true
+    - Alpha: 1
+      Arrow Width: 0.009999999776482582
+      Class: rviz/WrenchStamped
+      Enabled: true
+      Force Arrow Scale: 0.0010000000474974513
+      Force Color: 204; 51; 51
+      Hide Small Values: false
+      History Length: 1
+      Name: WrenchStamped
+      Queue Size: 10
+      Topic: /index_41
+      Torque Arrow Scale: 2
+      Torque Color: 204; 204; 51
+      Unreliable: false
+      Value: true
+    - Alpha: 1
+      Arrow Width: 0.009999999776482582
+      Class: rviz/WrenchStamped
+      Enabled: true
+      Force Arrow Scale: 0.0010000000474974513
+      Force Color: 204; 51; 51
+      Hide Small Values: false
+      History Length: 1
+      Name: WrenchStamped
+      Queue Size: 10
+      Topic: /middle_00
+      Torque Arrow Scale: 2
+      Torque Color: 204; 204; 51
+      Unreliable: false
+      Value: true
+    - Alpha: 1
+      Arrow Width: 0.009999999776482582
+      Class: rviz/WrenchStamped
+      Enabled: true
+      Force Arrow Scale: 0.0010000000474974513
+      Force Color: 204; 51; 51
+      Hide Small Values: false
+      History Length: 1
+      Name: WrenchStamped
+      Queue Size: 10
+      Topic: /middle_01
+      Torque Arrow Scale: 2
+      Torque Color: 204; 204; 51
+      Unreliable: false
+      Value: true
+    - Alpha: 1
+      Arrow Width: 0.009999999776482582
+      Class: rviz/WrenchStamped
+      Enabled: true
+      Force Arrow Scale: 0.0010000000474974513
+      Force Color: 204; 51; 51
+      Hide Small Values: false
+      History Length: 1
+      Name: WrenchStamped
+      Queue Size: 10
+      Topic: /middle_02
+      Torque Arrow Scale: 2
+      Torque Color: 204; 204; 51
+      Unreliable: false
+      Value: true
+    - Alpha: 1
+      Arrow Width: 0.009999999776482582
+      Class: rviz/WrenchStamped
+      Enabled: true
+      Force Arrow Scale: 0.0010000000474974513
+      Force Color: 204; 51; 51
+      Hide Small Values: false
+      History Length: 1
+      Name: WrenchStamped
+      Queue Size: 10
+      Topic: /middle_03
+      Torque Arrow Scale: 2
+      Torque Color: 204; 204; 51
+      Unreliable: false
+      Value: true
+    - Alpha: 1
+      Arrow Width: 0.009999999776482582
+      Class: rviz/WrenchStamped
+      Enabled: true
+      Force Arrow Scale: 0.0010000000474974513
+      Force Color: 204; 51; 51
+      Hide Small Values: false
+      History Length: 1
+      Name: WrenchStamped
+      Queue Size: 10
+      Topic: /middle_04
+      Torque Arrow Scale: 2
+      Torque Color: 204; 204; 51
+      Unreliable: false
+      Value: true
+    - Alpha: 1
+      Arrow Width: 0.009999999776482582
+      Class: rviz/WrenchStamped
+      Enabled: true
+      Force Arrow Scale: 0.0010000000474974513
+      Force Color: 204; 51; 51
+      Hide Small Values: false
+      History Length: 1
+      Name: WrenchStamped
+      Queue Size: 10
+      Topic: /middle_05
+      Torque Arrow Scale: 2
+      Torque Color: 204; 204; 51
+      Unreliable: false
+      Value: true
+    - Alpha: 1
+      Arrow Width: 0.009999999776482582
+      Class: rviz/WrenchStamped
+      Enabled: true
+      Force Arrow Scale: 0.0010000000474974513
+      Force Color: 204; 51; 51
+      Hide Small Values: false
+      History Length: 1
+      Name: WrenchStamped
+      Queue Size: 10
+      Topic: /middle_06
+      Torque Arrow Scale: 2
+      Torque Color: 204; 204; 51
+      Unreliable: false
+      Value: true
+    - Alpha: 1
+      Arrow Width: 0.009999999776482582
+      Class: rviz/WrenchStamped
+      Enabled: true
+      Force Arrow Scale: 0.0010000000474974513
+      Force Color: 204; 51; 51
+      Hide Small Values: false
+      History Length: 1
+      Name: WrenchStamped
+      Queue Size: 10
+      Topic: /middle_07
+      Torque Arrow Scale: 2
+      Torque Color: 204; 204; 51
+      Unreliable: false
+      Value: true
+    - Alpha: 1
+      Arrow Width: 0.009999999776482582
+      Class: rviz/WrenchStamped
+      Enabled: true
+      Force Arrow Scale: 0.0010000000474974513
+      Force Color: 204; 51; 51
+      Hide Small Values: false
+      History Length: 1
+      Name: WrenchStamped
+      Queue Size: 10
+      Topic: /middle_08
+      Torque Arrow Scale: 2
+      Torque Color: 204; 204; 51
+      Unreliable: false
+      Value: true
+    - Alpha: 1
+      Arrow Width: 0.009999999776482582
+      Class: rviz/WrenchStamped
+      Enabled: true
+      Force Arrow Scale: 0.0010000000474974513
+      Force Color: 204; 51; 51
+      Hide Small Values: false
+      History Length: 1
+      Name: WrenchStamped
+      Queue Size: 10
+      Topic: /middle_09
+      Torque Arrow Scale: 2
+      Torque Color: 204; 204; 51
+      Unreliable: false
+      Value: true
+    - Alpha: 1
+      Arrow Width: 0.009999999776482582
+      Class: rviz/WrenchStamped
+      Enabled: true
+      Force Arrow Scale: 0.0010000000474974513
+      Force Color: 204; 51; 51
+      Hide Small Values: false
+      History Length: 1
+      Name: WrenchStamped
+      Queue Size: 10
+      Topic: /middle_10
+      Torque Arrow Scale: 2
+      Torque Color: 204; 204; 51
+      Unreliable: false
+      Value: true
+    - Alpha: 1
+      Arrow Width: 0.009999999776482582
+      Class: rviz/WrenchStamped
+      Enabled: true
+      Force Arrow Scale: 0.0010000000474974513
+      Force Color: 204; 51; 51
+      Hide Small Values: false
+      History Length: 1
+      Name: WrenchStamped
+      Queue Size: 10
+      Topic: /middle_11
+      Torque Arrow Scale: 2
+      Torque Color: 204; 204; 51
+      Unreliable: false
+      Value: true
+    - Alpha: 1
+      Arrow Width: 0.009999999776482582
+      Class: rviz/WrenchStamped
+      Enabled: true
+      Force Arrow Scale: 0.0010000000474974513
+      Force Color: 204; 51; 51
+      Hide Small Values: false
+      History Length: 1
+      Name: WrenchStamped
+      Queue Size: 10
+      Topic: /middle_12
+      Torque Arrow Scale: 2
+      Torque Color: 204; 204; 51
+      Unreliable: false
+      Value: true
+    - Alpha: 1
+      Arrow Width: 0.009999999776482582
+      Class: rviz/WrenchStamped
+      Enabled: true
+      Force Arrow Scale: 0.0010000000474974513
+      Force Color: 204; 51; 51
+      Hide Small Values: false
+      History Length: 1
+      Name: WrenchStamped
+      Queue Size: 10
+      Topic: /middle_13
+      Torque Arrow Scale: 2
+      Torque Color: 204; 204; 51
+      Unreliable: false
+      Value: true
+    - Alpha: 1
+      Arrow Width: 0.009999999776482582
+      Class: rviz/WrenchStamped
+      Enabled: true
+      Force Arrow Scale: 0.0010000000474974513
+      Force Color: 204; 51; 51
+      Hide Small Values: false
+      History Length: 1
+      Name: WrenchStamped
+      Queue Size: 10
+      Topic: /middle_14
+      Torque Arrow Scale: 2
+      Torque Color: 204; 204; 51
+      Unreliable: false
+      Value: true
+    - Alpha: 1
+      Arrow Width: 0.009999999776482582
+      Class: rviz/WrenchStamped
+      Enabled: true
+      Force Arrow Scale: 0.0010000000474974513
+      Force Color: 204; 51; 51
+      Hide Small Values: false
+      History Length: 1
+      Name: WrenchStamped
+      Queue Size: 10
+      Topic: /middle_15
+      Torque Arrow Scale: 2
+      Torque Color: 204; 204; 51
+      Unreliable: false
+      Value: true
+    - Alpha: 1
+      Arrow Width: 0.009999999776482582
+      Class: rviz/WrenchStamped
+      Enabled: true
+      Force Arrow Scale: 0.0010000000474974513
+      Force Color: 204; 51; 51
+      Hide Small Values: false
+      History Length: 1
+      Name: WrenchStamped
+      Queue Size: 10
+      Topic: /middle_16
+      Torque Arrow Scale: 2
+      Torque Color: 204; 204; 51
+      Unreliable: false
+      Value: true
+    - Alpha: 1
+      Arrow Width: 0.009999999776482582
+      Class: rviz/WrenchStamped
+      Enabled: true
+      Force Arrow Scale: 0.0010000000474974513
+      Force Color: 204; 51; 51
+      Hide Small Values: false
+      History Length: 1
+      Name: WrenchStamped
+      Queue Size: 10
+      Topic: /middle_17
+      Torque Arrow Scale: 2
+      Torque Color: 204; 204; 51
+      Unreliable: false
+      Value: true
+    - Alpha: 1
+      Arrow Width: 0.009999999776482582
+      Class: rviz/WrenchStamped
+      Enabled: true
+      Force Arrow Scale: 0.0010000000474974513
+      Force Color: 204; 51; 51
+      Hide Small Values: false
+      History Length: 1
+      Name: WrenchStamped
+      Queue Size: 10
+      Topic: /middle_18
+      Torque Arrow Scale: 2
+      Torque Color: 204; 204; 51
+      Unreliable: false
+      Value: true
+    - Alpha: 1
+      Arrow Width: 0.009999999776482582
+      Class: rviz/WrenchStamped
+      Enabled: true
+      Force Arrow Scale: 0.0010000000474974513
+      Force Color: 204; 51; 51
+      Hide Small Values: false
+      History Length: 1
+      Name: WrenchStamped
+      Queue Size: 10
+      Topic: /middle_19
+      Torque Arrow Scale: 2
+      Torque Color: 204; 204; 51
+      Unreliable: false
+      Value: true
+    - Alpha: 1
+      Arrow Width: 0.009999999776482582
+      Class: rviz/WrenchStamped
+      Enabled: true
+      Force Arrow Scale: 0.0010000000474974513
+      Force Color: 204; 51; 51
+      Hide Small Values: false
+      History Length: 1
+      Name: WrenchStamped
+      Queue Size: 10
+      Topic: /middle_20
+      Torque Arrow Scale: 2
+      Torque Color: 204; 204; 51
+      Unreliable: false
+      Value: true
+    - Alpha: 1
+      Arrow Width: 0.009999999776482582
+      Class: rviz/WrenchStamped
+      Enabled: true
+      Force Arrow Scale: 0.0010000000474974513
+      Force Color: 204; 51; 51
+      Hide Small Values: false
+      History Length: 1
+      Name: WrenchStamped
+      Queue Size: 10
+      Topic: /middle_21
+      Torque Arrow Scale: 2
+      Torque Color: 204; 204; 51
+      Unreliable: false
+      Value: true
+    - Alpha: 1
+      Arrow Width: 0.009999999776482582
+      Class: rviz/WrenchStamped
+      Enabled: true
+      Force Arrow Scale: 0.0010000000474974513
+      Force Color: 204; 51; 51
+      Hide Small Values: false
+      History Length: 1
+      Name: WrenchStamped
+      Queue Size: 10
+      Topic: /middle_21
+      Torque Arrow Scale: 2
+      Torque Color: 204; 204; 51
+      Unreliable: false
+      Value: true
+    - Alpha: 1
+      Arrow Width: 0.009999999776482582
+      Class: rviz/WrenchStamped
+      Enabled: true
+      Force Arrow Scale: 0.0010000000474974513
+      Force Color: 204; 51; 51
+      Hide Small Values: false
+      History Length: 1
+      Name: WrenchStamped
+      Queue Size: 10
+      Topic: /middle_22
+      Torque Arrow Scale: 2
+      Torque Color: 204; 204; 51
+      Unreliable: false
+      Value: true
+    - Alpha: 1
+      Arrow Width: 0.009999999776482582
+      Class: rviz/WrenchStamped
+      Enabled: true
+      Force Arrow Scale: 0.0010000000474974513
+      Force Color: 204; 51; 51
+      Hide Small Values: false
+      History Length: 1
+      Name: WrenchStamped
+      Queue Size: 10
+      Topic: /middle_23
+      Torque Arrow Scale: 2
+      Torque Color: 204; 204; 51
+      Unreliable: false
+      Value: true
+    - Alpha: 1
+      Arrow Width: 0.009999999776482582
+      Class: rviz/WrenchStamped
+      Enabled: true
+      Force Arrow Scale: 0.0010000000474974513
+      Force Color: 204; 51; 51
+      Hide Small Values: false
+      History Length: 1
+      Name: WrenchStamped
+      Queue Size: 10
+      Topic: /middle_24
+      Torque Arrow Scale: 2
+      Torque Color: 204; 204; 51
+      Unreliable: false
+      Value: true
+    - Alpha: 1
+      Arrow Width: 0.009999999776482582
+      Class: rviz/WrenchStamped
+      Enabled: true
+      Force Arrow Scale: 0.0010000000474974513
+      Force Color: 204; 51; 51
+      Hide Small Values: false
+      History Length: 1
+      Name: WrenchStamped
+      Queue Size: 10
+      Topic: /middle_25
+      Torque Arrow Scale: 2
+      Torque Color: 204; 204; 51
+      Unreliable: false
+      Value: true
+    - Alpha: 1
+      Arrow Width: 0.009999999776482582
+      Class: rviz/WrenchStamped
+      Enabled: true
+      Force Arrow Scale: 0.0010000000474974513
+      Force Color: 204; 51; 51
+      Hide Small Values: false
+      History Length: 1
+      Name: WrenchStamped
+      Queue Size: 10
+      Topic: /middle_26
+      Torque Arrow Scale: 2
+      Torque Color: 204; 204; 51
+      Unreliable: false
+      Value: true
+    - Alpha: 1
+      Arrow Width: 0.009999999776482582
+      Class: rviz/WrenchStamped
+      Enabled: true
+      Force Arrow Scale: 0.0010000000474974513
+      Force Color: 204; 51; 51
+      Hide Small Values: false
+      History Length: 1
+      Name: WrenchStamped
+      Queue Size: 10
+      Topic: /middle_27
+      Torque Arrow Scale: 2
+      Torque Color: 204; 204; 51
+      Unreliable: false
+      Value: true
+    - Alpha: 1
+      Arrow Width: 0.009999999776482582
+      Class: rviz/WrenchStamped
+      Enabled: true
+      Force Arrow Scale: 0.0010000000474974513
+      Force Color: 204; 51; 51
+      Hide Small Values: false
+      History Length: 1
+      Name: WrenchStamped
+      Queue Size: 10
+      Topic: /middle_28
+      Torque Arrow Scale: 2
+      Torque Color: 204; 204; 51
+      Unreliable: false
+      Value: true
+    - Alpha: 1
+      Arrow Width: 0.009999999776482582
+      Class: rviz/WrenchStamped
+      Enabled: true
+      Force Arrow Scale: 0.0010000000474974513
+      Force Color: 204; 51; 51
+      Hide Small Values: false
+      History Length: 1
+      Name: WrenchStamped
+      Queue Size: 10
+      Topic: /middle_29
+      Torque Arrow Scale: 2
+      Torque Color: 204; 204; 51
+      Unreliable: false
+      Value: true
+    - Alpha: 1
+      Arrow Width: 0.009999999776482582
+      Class: rviz/WrenchStamped
+      Enabled: true
+      Force Arrow Scale: 0.0010000000474974513
+      Force Color: 204; 51; 51
+      Hide Small Values: false
+      History Length: 1
+      Name: WrenchStamped
+      Queue Size: 10
+      Topic: /middle_30
+      Torque Arrow Scale: 2
+      Torque Color: 204; 204; 51
+      Unreliable: false
+      Value: true
+    - Alpha: 1
+      Arrow Width: 0.009999999776482582
+      Class: rviz/WrenchStamped
+      Enabled: true
+      Force Arrow Scale: 0.0010000000474974513
+      Force Color: 204; 51; 51
+      Hide Small Values: false
+      History Length: 1
+      Name: WrenchStamped
+      Queue Size: 10
+      Topic: /middle_31
+      Torque Arrow Scale: 2
+      Torque Color: 204; 204; 51
+      Unreliable: false
+      Value: true
+    - Alpha: 1
+      Arrow Width: 0.009999999776482582
+      Class: rviz/WrenchStamped
+      Enabled: true
+      Force Arrow Scale: 0.0010000000474974513
+      Force Color: 204; 51; 51
+      Hide Small Values: false
+      History Length: 1
+      Name: WrenchStamped
+      Queue Size: 10
+      Topic: /middle_32
+      Torque Arrow Scale: 2
+      Torque Color: 204; 204; 51
+      Unreliable: false
+      Value: true
+    - Alpha: 1
+      Arrow Width: 0.009999999776482582
+      Class: rviz/WrenchStamped
+      Enabled: true
+      Force Arrow Scale: 0.0010000000474974513
+      Force Color: 204; 51; 51
+      Hide Small Values: false
+      History Length: 1
+      Name: WrenchStamped
+      Queue Size: 10
+      Topic: /middle_33
+      Torque Arrow Scale: 2
+      Torque Color: 204; 204; 51
+      Unreliable: false
+      Value: true
+    - Alpha: 1
+      Arrow Width: 0.009999999776482582
+      Class: rviz/WrenchStamped
+      Enabled: true
+      Force Arrow Scale: 0.0010000000474974513
+      Force Color: 204; 51; 51
+      Hide Small Values: false
+      History Length: 1
+      Name: WrenchStamped
+      Queue Size: 10
+      Topic: /middle_34
+      Torque Arrow Scale: 2
+      Torque Color: 204; 204; 51
+      Unreliable: false
+      Value: true
+    - Alpha: 1
+      Arrow Width: 0.009999999776482582
+      Class: rviz/WrenchStamped
+      Enabled: true
+      Force Arrow Scale: 0.0010000000474974513
+      Force Color: 204; 51; 51
+      Hide Small Values: false
+      History Length: 1
+      Name: WrenchStamped
+      Queue Size: 10
+      Topic: /middle_35
+      Torque Arrow Scale: 2
+      Torque Color: 204; 204; 51
+      Unreliable: false
+      Value: true
+    - Alpha: 1
+      Arrow Width: 0.009999999776482582
+      Class: rviz/WrenchStamped
+      Enabled: true
+      Force Arrow Scale: 0.0010000000474974513
+      Force Color: 204; 51; 51
+      Hide Small Values: false
+      History Length: 1
+      Name: WrenchStamped
+      Queue Size: 10
+      Topic: /middle_36
+      Torque Arrow Scale: 2
+      Torque Color: 204; 204; 51
+      Unreliable: false
+      Value: true
+    - Alpha: 1
+      Arrow Width: 0.009999999776482582
+      Class: rviz/WrenchStamped
+      Enabled: true
+      Force Arrow Scale: 0.0010000000474974513
+      Force Color: 204; 51; 51
+      Hide Small Values: false
+      History Length: 1
+      Name: WrenchStamped
+      Queue Size: 10
+      Topic: /middle_37
+      Torque Arrow Scale: 2
+      Torque Color: 204; 204; 51
+      Unreliable: false
+      Value: true
+    - Alpha: 1
+      Arrow Width: 0.009999999776482582
+      Class: rviz/WrenchStamped
+      Enabled: true
+      Force Arrow Scale: 0.0010000000474974513
+      Force Color: 204; 51; 51
+      Hide Small Values: false
+      History Length: 1
+      Name: WrenchStamped
+      Queue Size: 10
+      Topic: /middle_38
+      Torque Arrow Scale: 2
+      Torque Color: 204; 204; 51
+      Unreliable: false
+      Value: true
+    - Alpha: 1
+      Arrow Width: 0.009999999776482582
+      Class: rviz/WrenchStamped
+      Enabled: true
+      Force Arrow Scale: 0.0010000000474974513
+      Force Color: 204; 51; 51
+      Hide Small Values: false
+      History Length: 1
+      Name: WrenchStamped
+      Queue Size: 10
+      Topic: /middle_39
+      Torque Arrow Scale: 2
+      Torque Color: 204; 204; 51
+      Unreliable: false
+      Value: true
+    - Alpha: 1
+      Arrow Width: 0.009999999776482582
+      Class: rviz/WrenchStamped
+      Enabled: true
+      Force Arrow Scale: 0.0010000000474974513
+      Force Color: 204; 51; 51
+      Hide Small Values: false
+      History Length: 1
+      Name: WrenchStamped
+      Queue Size: 10
+      Topic: /middle_40
+      Torque Arrow Scale: 2
+      Torque Color: 204; 204; 51
+      Unreliable: false
+      Value: true
+    - Alpha: 1
+      Arrow Width: 0.009999999776482582
+      Class: rviz/WrenchStamped
+      Enabled: true
+      Force Arrow Scale: 0.0010000000474974513
+      Force Color: 204; 51; 51
+      Hide Small Values: false
+      History Length: 1
+      Name: WrenchStamped
+      Queue Size: 10
+      Topic: /middle_41
+      Torque Arrow Scale: 2
+      Torque Color: 204; 204; 51
+      Unreliable: false
+      Value: true
+    - Alpha: 1
+      Arrow Width: 0.009999999776482582
+      Class: rviz/WrenchStamped
+      Enabled: true
+      Force Arrow Scale: 0.0010000000474974513
+      Force Color: 204; 51; 51
+      Hide Small Values: false
+      History Length: 1
+      Name: WrenchStamped
+      Queue Size: 10
+      Topic: /ring_00
+      Torque Arrow Scale: 2
+      Torque Color: 204; 204; 51
+      Unreliable: false
+      Value: true
+    - Alpha: 1
+      Arrow Width: 0.009999999776482582
+      Class: rviz/WrenchStamped
+      Enabled: true
+      Force Arrow Scale: 0.0010000000474974513
+      Force Color: 204; 51; 51
+      Hide Small Values: false
+      History Length: 1
+      Name: WrenchStamped
+      Queue Size: 10
+      Topic: /ring_01
+      Torque Arrow Scale: 2
+      Torque Color: 204; 204; 51
+      Unreliable: false
+      Value: true
+    - Alpha: 1
+      Arrow Width: 0.009999999776482582
+      Class: rviz/WrenchStamped
+      Enabled: true
+      Force Arrow Scale: 0.0010000000474974513
+      Force Color: 204; 51; 51
+      Hide Small Values: false
+      History Length: 1
+      Name: WrenchStamped
+      Queue Size: 10
+      Topic: /ring_02
+      Torque Arrow Scale: 2
+      Torque Color: 204; 204; 51
+      Unreliable: false
+      Value: true
+    - Alpha: 1
+      Arrow Width: 0.009999999776482582
+      Class: rviz/WrenchStamped
+      Enabled: true
+      Force Arrow Scale: 0.0010000000474974513
+      Force Color: 204; 51; 51
+      Hide Small Values: false
+      History Length: 1
+      Name: WrenchStamped
+      Queue Size: 10
+      Topic: /ring_03
+      Torque Arrow Scale: 2
+      Torque Color: 204; 204; 51
+      Unreliable: false
+      Value: true
+    - Alpha: 1
+      Arrow Width: 0.009999999776482582
+      Class: rviz/WrenchStamped
+      Enabled: true
+      Force Arrow Scale: 0.0010000000474974513
+      Force Color: 204; 51; 51
+      Hide Small Values: false
+      History Length: 1
+      Name: WrenchStamped
+      Queue Size: 10
+      Topic: /ring_04
+      Torque Arrow Scale: 2
+      Torque Color: 204; 204; 51
+      Unreliable: false
+      Value: true
+    - Alpha: 1
+      Arrow Width: 0.009999999776482582
+      Class: rviz/WrenchStamped
+      Enabled: true
+      Force Arrow Scale: 0.0010000000474974513
+      Force Color: 204; 51; 51
+      Hide Small Values: false
+      History Length: 1
+      Name: WrenchStamped
+      Queue Size: 10
+      Topic: /ring_05
+      Torque Arrow Scale: 2
+      Torque Color: 204; 204; 51
+      Unreliable: false
+      Value: true
+    - Alpha: 1
+      Arrow Width: 0.009999999776482582
+      Class: rviz/WrenchStamped
+      Enabled: true
+      Force Arrow Scale: 0.0010000000474974513
+      Force Color: 204; 51; 51
+      Hide Small Values: false
+      History Length: 1
+      Name: WrenchStamped
+      Queue Size: 10
+      Topic: /ring_06
+      Torque Arrow Scale: 2
+      Torque Color: 204; 204; 51
+      Unreliable: false
+      Value: true
+    - Alpha: 1
+      Arrow Width: 0.009999999776482582
+      Class: rviz/WrenchStamped
+      Enabled: true
+      Force Arrow Scale: 0.0010000000474974513
+      Force Color: 204; 51; 51
+      Hide Small Values: false
+      History Length: 1
+      Name: WrenchStamped
+      Queue Size: 10
+      Topic: /ring_07
+      Torque Arrow Scale: 2
+      Torque Color: 204; 204; 51
+      Unreliable: false
+      Value: true
+    - Alpha: 1
+      Arrow Width: 0.009999999776482582
+      Class: rviz/WrenchStamped
+      Enabled: true
+      Force Arrow Scale: 0.0010000000474974513
+      Force Color: 204; 51; 51
+      Hide Small Values: false
+      History Length: 1
+      Name: WrenchStamped
+      Queue Size: 10
+      Topic: /ring_08
+      Torque Arrow Scale: 2
+      Torque Color: 204; 204; 51
+      Unreliable: false
+      Value: true
+    - Alpha: 1
+      Arrow Width: 0.009999999776482582
+      Class: rviz/WrenchStamped
+      Enabled: true
+      Force Arrow Scale: 0.0010000000474974513
+      Force Color: 204; 51; 51
+      Hide Small Values: false
+      History Length: 1
+      Name: WrenchStamped
+      Queue Size: 10
+      Topic: /ring_09
+      Torque Arrow Scale: 2
+      Torque Color: 204; 204; 51
+      Unreliable: false
+      Value: true
+    - Alpha: 1
+      Arrow Width: 0.009999999776482582
+      Class: rviz/WrenchStamped
+      Enabled: true
+      Force Arrow Scale: 0.0010000000474974513
+      Force Color: 204; 51; 51
+      Hide Small Values: false
+      History Length: 1
+      Name: WrenchStamped
+      Queue Size: 10
+      Topic: /ring_10
+      Torque Arrow Scale: 2
+      Torque Color: 204; 204; 51
+      Unreliable: false
+      Value: true
+    - Alpha: 1
+      Arrow Width: 0.009999999776482582
+      Class: rviz/WrenchStamped
+      Enabled: true
+      Force Arrow Scale: 0.0010000000474974513
+      Force Color: 204; 51; 51
+      Hide Small Values: false
+      History Length: 1
+      Name: WrenchStamped
+      Queue Size: 10
+      Topic: /ring_11
+      Torque Arrow Scale: 2
+      Torque Color: 204; 204; 51
+      Unreliable: false
+      Value: true
+    - Alpha: 1
+      Arrow Width: 0.009999999776482582
+      Class: rviz/WrenchStamped
+      Enabled: true
+      Force Arrow Scale: 0.0010000000474974513
+      Force Color: 204; 51; 51
+      Hide Small Values: false
+      History Length: 1
+      Name: WrenchStamped
+      Queue Size: 10
+      Topic: /ring_12
+      Torque Arrow Scale: 2
+      Torque Color: 204; 204; 51
+      Unreliable: false
+      Value: true
+    - Alpha: 1
+      Arrow Width: 0.009999999776482582
+      Class: rviz/WrenchStamped
+      Enabled: true
+      Force Arrow Scale: 0.0010000000474974513
+      Force Color: 204; 51; 51
+      Hide Small Values: false
+      History Length: 1
+      Name: WrenchStamped
+      Queue Size: 10
+      Topic: /ring_13
+      Torque Arrow Scale: 2
+      Torque Color: 204; 204; 51
+      Unreliable: false
+      Value: true
+    - Alpha: 1
+      Arrow Width: 0.009999999776482582
+      Class: rviz/WrenchStamped
+      Enabled: true
+      Force Arrow Scale: 0.0010000000474974513
+      Force Color: 204; 51; 51
+      Hide Small Values: false
+      History Length: 1
+      Name: WrenchStamped
+      Queue Size: 10
+      Topic: /ring_14
+      Torque Arrow Scale: 2
+      Torque Color: 204; 204; 51
+      Unreliable: false
+      Value: true
+    - Alpha: 1
+      Arrow Width: 0.009999999776482582
+      Class: rviz/WrenchStamped
+      Enabled: true
+      Force Arrow Scale: 0.0010000000474974513
+      Force Color: 204; 51; 51
+      Hide Small Values: false
+      History Length: 1
+      Name: WrenchStamped
+      Queue Size: 10
+      Topic: /ring_15
+      Torque Arrow Scale: 2
+      Torque Color: 204; 204; 51
+      Unreliable: false
+      Value: true
+    - Alpha: 1
+      Arrow Width: 0.009999999776482582
+      Class: rviz/WrenchStamped
+      Enabled: true
+      Force Arrow Scale: 0.0010000000474974513
+      Force Color: 204; 51; 51
+      Hide Small Values: false
+      History Length: 1
+      Name: WrenchStamped
+      Queue Size: 10
+      Topic: /ring_16
+      Torque Arrow Scale: 2
+      Torque Color: 204; 204; 51
+      Unreliable: false
+      Value: true
+    - Alpha: 1
+      Arrow Width: 0.009999999776482582
+      Class: rviz/WrenchStamped
+      Enabled: true
+      Force Arrow Scale: 0.0010000000474974513
+      Force Color: 204; 51; 51
+      Hide Small Values: false
+      History Length: 1
+      Name: WrenchStamped
+      Queue Size: 10
+      Topic: /ring_17
+      Torque Arrow Scale: 2
+      Torque Color: 204; 204; 51
+      Unreliable: false
+      Value: true
+    - Alpha: 1
+      Arrow Width: 0.009999999776482582
+      Class: rviz/WrenchStamped
+      Enabled: true
+      Force Arrow Scale: 0.0010000000474974513
+      Force Color: 204; 51; 51
+      Hide Small Values: false
+      History Length: 1
+      Name: WrenchStamped
+      Queue Size: 10
+      Topic: /ring_18
+      Torque Arrow Scale: 2
+      Torque Color: 204; 204; 51
+      Unreliable: false
+      Value: true
+    - Alpha: 1
+      Arrow Width: 0.009999999776482582
+      Class: rviz/WrenchStamped
+      Enabled: true
+      Force Arrow Scale: 0.0010000000474974513
+      Force Color: 204; 51; 51
+      Hide Small Values: false
+      History Length: 1
+      Name: WrenchStamped
+      Queue Size: 10
+      Topic: /ring_19
+      Torque Arrow Scale: 2
+      Torque Color: 204; 204; 51
+      Unreliable: false
+      Value: true
+    - Alpha: 1
+      Arrow Width: 0.009999999776482582
+      Class: rviz/WrenchStamped
+      Enabled: true
+      Force Arrow Scale: 0.0010000000474974513
+      Force Color: 204; 51; 51
+      Hide Small Values: false
+      History Length: 1
+      Name: WrenchStamped
+      Queue Size: 10
+      Topic: /ring_20
+      Torque Arrow Scale: 2
+      Torque Color: 204; 204; 51
+      Unreliable: false
+      Value: true
+    - Alpha: 1
+      Arrow Width: 0.009999999776482582
+      Class: rviz/WrenchStamped
+      Enabled: true
+      Force Arrow Scale: 0.0010000000474974513
+      Force Color: 204; 51; 51
+      Hide Small Values: false
+      History Length: 1
+      Name: WrenchStamped
+      Queue Size: 10
+      Topic: /ring_21
+      Torque Arrow Scale: 2
+      Torque Color: 204; 204; 51
+      Unreliable: false
+      Value: true
+    - Alpha: 1
+      Arrow Width: 0.009999999776482582
+      Class: rviz/WrenchStamped
+      Enabled: true
+      Force Arrow Scale: 0.0010000000474974513
+      Force Color: 204; 51; 51
+      Hide Small Values: false
+      History Length: 1
+      Name: WrenchStamped
+      Queue Size: 10
+      Topic: /ring_21
+      Torque Arrow Scale: 2
+      Torque Color: 204; 204; 51
+      Unreliable: false
+      Value: true
+    - Alpha: 1
+      Arrow Width: 0.009999999776482582
+      Class: rviz/WrenchStamped
+      Enabled: true
+      Force Arrow Scale: 0.0010000000474974513
+      Force Color: 204; 51; 51
+      Hide Small Values: false
+      History Length: 1
+      Name: WrenchStamped
+      Queue Size: 10
+      Topic: /ring_22
+      Torque Arrow Scale: 2
+      Torque Color: 204; 204; 51
+      Unreliable: false
+      Value: true
+    - Alpha: 1
+      Arrow Width: 0.009999999776482582
+      Class: rviz/WrenchStamped
+      Enabled: true
+      Force Arrow Scale: 0.0010000000474974513
+      Force Color: 204; 51; 51
+      Hide Small Values: false
+      History Length: 1
+      Name: WrenchStamped
+      Queue Size: 10
+      Topic: /ring_23
+      Torque Arrow Scale: 2
+      Torque Color: 204; 204; 51
+      Unreliable: false
+      Value: true
+    - Alpha: 1
+      Arrow Width: 0.009999999776482582
+      Class: rviz/WrenchStamped
+      Enabled: true
+      Force Arrow Scale: 0.0010000000474974513
+      Force Color: 204; 51; 51
+      Hide Small Values: false
+      History Length: 1
+      Name: WrenchStamped
+      Queue Size: 10
+      Topic: /ring_24
+      Torque Arrow Scale: 2
+      Torque Color: 204; 204; 51
+      Unreliable: false
+      Value: true
+    - Alpha: 1
+      Arrow Width: 0.009999999776482582
+      Class: rviz/WrenchStamped
+      Enabled: true
+      Force Arrow Scale: 0.0010000000474974513
+      Force Color: 204; 51; 51
+      Hide Small Values: false
+      History Length: 1
+      Name: WrenchStamped
+      Queue Size: 10
+      Topic: /ring_25
+      Torque Arrow Scale: 2
+      Torque Color: 204; 204; 51
+      Unreliable: false
+      Value: true
+    - Alpha: 1
+      Arrow Width: 0.009999999776482582
+      Class: rviz/WrenchStamped
+      Enabled: true
+      Force Arrow Scale: 0.0010000000474974513
+      Force Color: 204; 51; 51
+      Hide Small Values: false
+      History Length: 1
+      Name: WrenchStamped
+      Queue Size: 10
+      Topic: /ring_26
+      Torque Arrow Scale: 2
+      Torque Color: 204; 204; 51
+      Unreliable: false
+      Value: true
+    - Alpha: 1
+      Arrow Width: 0.009999999776482582
+      Class: rviz/WrenchStamped
+      Enabled: true
+      Force Arrow Scale: 0.0010000000474974513
+      Force Color: 204; 51; 51
+      Hide Small Values: false
+      History Length: 1
+      Name: WrenchStamped
+      Queue Size: 10
+      Topic: /ring_27
+      Torque Arrow Scale: 2
+      Torque Color: 204; 204; 51
+      Unreliable: false
+      Value: true
+    - Alpha: 1
+      Arrow Width: 0.009999999776482582
+      Class: rviz/WrenchStamped
+      Enabled: true
+      Force Arrow Scale: 0.0010000000474974513
+      Force Color: 204; 51; 51
+      Hide Small Values: false
+      History Length: 1
+      Name: WrenchStamped
+      Queue Size: 10
+      Topic: /ring_28
+      Torque Arrow Scale: 2
+      Torque Color: 204; 204; 51
+      Unreliable: false
+      Value: true
+    - Alpha: 1
+      Arrow Width: 0.009999999776482582
+      Class: rviz/WrenchStamped
+      Enabled: true
+      Force Arrow Scale: 0.0010000000474974513
+      Force Color: 204; 51; 51
+      Hide Small Values: false
+      History Length: 1
+      Name: WrenchStamped
+      Queue Size: 10
+      Topic: /ring_29
+      Torque Arrow Scale: 2
+      Torque Color: 204; 204; 51
+      Unreliable: false
+      Value: true
+    - Alpha: 1
+      Arrow Width: 0.009999999776482582
+      Class: rviz/WrenchStamped
+      Enabled: true
+      Force Arrow Scale: 0.0010000000474974513
+      Force Color: 204; 51; 51
+      Hide Small Values: false
+      History Length: 1
+      Name: WrenchStamped
+      Queue Size: 10
+      Topic: /ring_30
+      Torque Arrow Scale: 2
+      Torque Color: 204; 204; 51
+      Unreliable: false
+      Value: true
+    - Alpha: 1
+      Arrow Width: 0.009999999776482582
+      Class: rviz/WrenchStamped
+      Enabled: true
+      Force Arrow Scale: 0.0010000000474974513
+      Force Color: 204; 51; 51
+      Hide Small Values: false
+      History Length: 1
+      Name: WrenchStamped
+      Queue Size: 10
+      Topic: /ring_31
+      Torque Arrow Scale: 2
+      Torque Color: 204; 204; 51
+      Unreliable: false
+      Value: true
+    - Alpha: 1
+      Arrow Width: 0.009999999776482582
+      Class: rviz/WrenchStamped
+      Enabled: true
+      Force Arrow Scale: 0.0010000000474974513
+      Force Color: 204; 51; 51
+      Hide Small Values: false
+      History Length: 1
+      Name: WrenchStamped
+      Queue Size: 10
+      Topic: /ring_32
+      Torque Arrow Scale: 2
+      Torque Color: 204; 204; 51
+      Unreliable: false
+      Value: true
+    - Alpha: 1
+      Arrow Width: 0.009999999776482582
+      Class: rviz/WrenchStamped
+      Enabled: true
+      Force Arrow Scale: 0.0010000000474974513
+      Force Color: 204; 51; 51
+      Hide Small Values: false
+      History Length: 1
+      Name: WrenchStamped
+      Queue Size: 10
+      Topic: /ring_33
+      Torque Arrow Scale: 2
+      Torque Color: 204; 204; 51
+      Unreliable: false
+      Value: true
+    - Alpha: 1
+      Arrow Width: 0.009999999776482582
+      Class: rviz/WrenchStamped
+      Enabled: true
+      Force Arrow Scale: 0.0010000000474974513
+      Force Color: 204; 51; 51
+      Hide Small Values: false
+      History Length: 1
+      Name: WrenchStamped
+      Queue Size: 10
+      Topic: /ring_34
+      Torque Arrow Scale: 2
+      Torque Color: 204; 204; 51
+      Unreliable: false
+      Value: true
+    - Alpha: 1
+      Arrow Width: 0.009999999776482582
+      Class: rviz/WrenchStamped
+      Enabled: true
+      Force Arrow Scale: 0.0010000000474974513
+      Force Color: 204; 51; 51
+      Hide Small Values: false
+      History Length: 1
+      Name: WrenchStamped
+      Queue Size: 10
+      Topic: /ring_35
+      Torque Arrow Scale: 2
+      Torque Color: 204; 204; 51
+      Unreliable: false
+      Value: true
+    - Alpha: 1
+      Arrow Width: 0.009999999776482582
+      Class: rviz/WrenchStamped
+      Enabled: true
+      Force Arrow Scale: 0.0010000000474974513
+      Force Color: 204; 51; 51
+      Hide Small Values: false
+      History Length: 1
+      Name: WrenchStamped
+      Queue Size: 10
+      Topic: /ring_36
+      Torque Arrow Scale: 2
+      Torque Color: 204; 204; 51
+      Unreliable: false
+      Value: true
+    - Alpha: 1
+      Arrow Width: 0.009999999776482582
+      Class: rviz/WrenchStamped
+      Enabled: true
+      Force Arrow Scale: 0.0010000000474974513
+      Force Color: 204; 51; 51
+      Hide Small Values: false
+      History Length: 1
+      Name: WrenchStamped
+      Queue Size: 10
+      Topic: /ring_37
+      Torque Arrow Scale: 2
+      Torque Color: 204; 204; 51
+      Unreliable: false
+      Value: true
+    - Alpha: 1
+      Arrow Width: 0.009999999776482582
+      Class: rviz/WrenchStamped
+      Enabled: true
+      Force Arrow Scale: 0.0010000000474974513
+      Force Color: 204; 51; 51
+      Hide Small Values: false
+      History Length: 1
+      Name: WrenchStamped
+      Queue Size: 10
+      Topic: /ring_38
+      Torque Arrow Scale: 2
+      Torque Color: 204; 204; 51
+      Unreliable: false
+      Value: true
+    - Alpha: 1
+      Arrow Width: 0.009999999776482582
+      Class: rviz/WrenchStamped
+      Enabled: true
+      Force Arrow Scale: 0.0010000000474974513
+      Force Color: 204; 51; 51
+      Hide Small Values: false
+      History Length: 1
+      Name: WrenchStamped
+      Queue Size: 10
+      Topic: /ring_39
+      Torque Arrow Scale: 2
+      Torque Color: 204; 204; 51
+      Unreliable: false
+      Value: true
+    - Alpha: 1
+      Arrow Width: 0.009999999776482582
+      Class: rviz/WrenchStamped
+      Enabled: true
+      Force Arrow Scale: 0.0010000000474974513
+      Force Color: 204; 51; 51
+      Hide Small Values: false
+      History Length: 1
+      Name: WrenchStamped
+      Queue Size: 10
+      Topic: /ring_40
+      Torque Arrow Scale: 2
+      Torque Color: 204; 204; 51
+      Unreliable: false
+      Value: true
+    - Alpha: 1
+      Arrow Width: 0.009999999776482582
+      Class: rviz/WrenchStamped
+      Enabled: true
+      Force Arrow Scale: 0.0010000000474974513
+      Force Color: 204; 51; 51
+      Hide Small Values: false
+      History Length: 1
+      Name: WrenchStamped
+      Queue Size: 10
+      Topic: /ring_41
+      Torque Arrow Scale: 2
+      Torque Color: 204; 204; 51
+      Unreliable: false
+      Value: true
   Enabled: true
   Global Options:
     Background Color: 48; 48; 48
@@ -1040,7 +3620,7 @@ Visualization Manager:
   Views:
     Current:
       Class: rviz/Orbit
-      Distance: 1.469738483428955
+      Distance: 0.3942423164844513
       Enable Stereo Rendering:
         Stereo Eye Separation: 0.05999999865889549
         Stereo Focal Distance: 1
@@ -1056,9 +3636,9 @@ Visualization Manager:
       Invert Z Axis: false
       Name: Current View
       Near Clip Distance: 0.009999999776482582
-      Pitch: 0.07039832323789597
+      Pitch: -0.15460169315338135
       Target Frame: <Fixed Frame>
-      Yaw: 0.17039863765239716
+      Yaw: 0.815398633480072
     Saved: ~
 Window Geometry:
   Displays:
