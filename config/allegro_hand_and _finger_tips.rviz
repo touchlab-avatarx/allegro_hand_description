@@ -1012,6 +1012,7 @@ Visualization Manager:
       Update Interval: 0
       Value: true
       Visual Enabled: true
+# THUMB
     - Alpha: 1
       Arrow Width: 0.009999999776482582
       Class: rviz/WrenchStamped
@@ -1020,7 +1021,7 @@ Visualization Manager:
       Force Color: 204; 51; 51
       Hide Small Values: false
       History Length: 1
-      Name: WrenchStamped
+      Name: thumb_00 (A11)
       Queue Size: 10
       Topic: /thumb_00
       Torque Arrow Scale: 2
@@ -1035,7 +1036,7 @@ Visualization Manager:
       Force Color: 204; 51; 51
       Hide Small Values: false
       History Length: 1
-      Name: WrenchStamped
+      Name: thumb_01 (A12)
       Queue Size: 10
       Topic: /thumb_01
       Torque Arrow Scale: 2
@@ -1050,7 +1051,7 @@ Visualization Manager:
       Force Color: 204; 51; 51
       Hide Small Values: false
       History Length: 1
-      Name: WrenchStamped
+      Name: thumb_02 (B12)
       Queue Size: 10
       Topic: /thumb_02
       Torque Arrow Scale: 2
@@ -1065,7 +1066,7 @@ Visualization Manager:
       Force Color: 204; 51; 51
       Hide Small Values: false
       History Length: 1
-      Name: WrenchStamped
+      Name: thumb_03 (B22)
       Queue Size: 10
       Topic: /thumb_03
       Torque Arrow Scale: 2
@@ -1080,7 +1081,7 @@ Visualization Manager:
       Force Color: 204; 51; 51
       Hide Small Values: false
       History Length: 1
-      Name: WrenchStamped
+      Name: thumb_04 (B32)
       Queue Size: 10
       Topic: /thumb_04
       Torque Arrow Scale: 2
@@ -1095,7 +1096,7 @@ Visualization Manager:
       Force Color: 204; 51; 51
       Hide Small Values: false
       History Length: 1
-      Name: WrenchStamped
+      Name: thumb_05 (B42)
       Queue Size: 10
       Topic: /thumb_05
       Torque Arrow Scale: 2
@@ -1110,7 +1111,7 @@ Visualization Manager:
       Force Color: 204; 51; 51
       Hide Small Values: false
       History Length: 1
-      Name: WrenchStamped
+      Name: thumb_06 (B52)
       Queue Size: 10
       Topic: /thumb_06
       Torque Arrow Scale: 2
@@ -1125,7 +1126,7 @@ Visualization Manager:
       Force Color: 204; 51; 51
       Hide Small Values: false
       History Length: 1
-      Name: WrenchStamped
+      Name: thumb_07 (B62)
       Queue Size: 10
       Topic: /thumb_07
       Torque Arrow Scale: 2
@@ -1140,7 +1141,7 @@ Visualization Manager:
       Force Color: 204; 51; 51
       Hide Small Values: false
       History Length: 1
-      Name: WrenchStamped
+      Name: thumb_08 (B11)
       Queue Size: 10
       Topic: /thumb_08
       Torque Arrow Scale: 2
@@ -1155,7 +1156,7 @@ Visualization Manager:
       Force Color: 204; 51; 51
       Hide Small Values: false
       History Length: 1
-      Name: WrenchStamped
+      Name: thumb_09 (B21)
       Queue Size: 10
       Topic: /thumb_09
       Torque Arrow Scale: 2
@@ -1170,7 +1171,7 @@ Visualization Manager:
       Force Color: 204; 51; 51
       Hide Small Values: false
       History Length: 1
-      Name: WrenchStamped
+      Name: thumb_10 (B31)
       Queue Size: 10
       Topic: /thumb_10
       Torque Arrow Scale: 2
@@ -1185,7 +1186,7 @@ Visualization Manager:
       Force Color: 204; 51; 51
       Hide Small Values: false
       History Length: 1
-      Name: WrenchStamped
+      Name: thumb_11 (B41)
       Queue Size: 10
       Topic: /thumb_11
       Torque Arrow Scale: 2
@@ -1200,7 +1201,7 @@ Visualization Manager:
       Force Color: 204; 51; 51
       Hide Small Values: false
       History Length: 1
-      Name: WrenchStamped
+      Name: thumb_12 (B51)
       Queue Size: 10
       Topic: /thumb_12
       Torque Arrow Scale: 2
@@ -1215,7 +1216,7 @@ Visualization Manager:
       Force Color: 204; 51; 51
       Hide Small Values: false
       History Length: 1
-      Name: WrenchStamped
+      Name: thumb_13 (B61)
       Queue Size: 10
       Topic: /thumb_13
       Torque Arrow Scale: 2
@@ -1230,7 +1231,7 @@ Visualization Manager:
       Force Color: 204; 51; 51
       Hide Small Values: false
       History Length: 1
-      Name: WrenchStamped
+      Name: thumb_14 (C14)
       Queue Size: 10
       Topic: /thumb_14
       Torque Arrow Scale: 2
@@ -1245,7 +1246,7 @@ Visualization Manager:
       Force Color: 204; 51; 51
       Hide Small Values: false
       History Length: 1
-      Name: WrenchStamped
+      Name: thumb_15 (C24)
       Queue Size: 10
       Topic: /thumb_15
       Torque Arrow Scale: 2
@@ -1260,7 +1261,7 @@ Visualization Manager:
       Force Color: 204; 51; 51
       Hide Small Values: false
       History Length: 1
-      Name: WrenchStamped
+      Name: thumb_16 (C34)
       Queue Size: 10
       Topic: /thumb_16
       Torque Arrow Scale: 2
@@ -1275,7 +1276,7 @@ Visualization Manager:
       Force Color: 204; 51; 51
       Hide Small Values: false
       History Length: 1
-      Name: WrenchStamped
+      Name: thumb_17 (C44)
       Queue Size: 10
       Topic: /thumb_17
       Torque Arrow Scale: 2
@@ -1290,7 +1291,7 @@ Visualization Manager:
       Force Color: 204; 51; 51
       Hide Small Values: false
       History Length: 1
-      Name: WrenchStamped
+      Name: thumb_18 (C54)
       Queue Size: 10
       Topic: /thumb_18
       Torque Arrow Scale: 2
@@ -1305,7 +1306,7 @@ Visualization Manager:
       Force Color: 204; 51; 51
       Hide Small Values: false
       History Length: 1
-      Name: WrenchStamped
+      Name: thumb_19 (C64)
       Queue Size: 10
       Topic: /thumb_19
       Torque Arrow Scale: 2
@@ -1320,7 +1321,7 @@ Visualization Manager:
       Force Color: 204; 51; 51
       Hide Small Values: false
       History Length: 1
-      Name: WrenchStamped
+      Name: thumb_20 (C74)
       Queue Size: 10
       Topic: /thumb_20
       Torque Arrow Scale: 2
@@ -1335,7 +1336,7 @@ Visualization Manager:
       Force Color: 204; 51; 51
       Hide Small Values: false
       History Length: 1
-      Name: WrenchStamped
+      Name: thumb_21 (C13)
       Queue Size: 10
       Topic: /thumb_21
       Torque Arrow Scale: 2
@@ -1350,22 +1351,7 @@ Visualization Manager:
       Force Color: 204; 51; 51
       Hide Small Values: false
       History Length: 1
-      Name: WrenchStamped
-      Queue Size: 10
-      Topic: /thumb_21
-      Torque Arrow Scale: 2
-      Torque Color: 204; 204; 51
-      Unreliable: false
-      Value: true
-    - Alpha: 1
-      Arrow Width: 0.009999999776482582
-      Class: rviz/WrenchStamped
-      Enabled: true
-      Force Arrow Scale: 0.0010000000474974513
-      Force Color: 204; 51; 51
-      Hide Small Values: false
-      History Length: 1
-      Name: WrenchStamped
+      Name: thumb_22 (C23)
       Queue Size: 10
       Topic: /thumb_22
       Torque Arrow Scale: 2
@@ -1380,7 +1366,7 @@ Visualization Manager:
       Force Color: 204; 51; 51
       Hide Small Values: false
       History Length: 1
-      Name: WrenchStamped
+      Name: thumb_23 (C33)
       Queue Size: 10
       Topic: /thumb_23
       Torque Arrow Scale: 2
@@ -1395,7 +1381,7 @@ Visualization Manager:
       Force Color: 204; 51; 51
       Hide Small Values: false
       History Length: 1
-      Name: WrenchStamped
+      Name: thumb_24 (C43)
       Queue Size: 10
       Topic: /thumb_24
       Torque Arrow Scale: 2
@@ -1410,7 +1396,7 @@ Visualization Manager:
       Force Color: 204; 51; 51
       Hide Small Values: false
       History Length: 1
-      Name: WrenchStamped
+      Name: thumb_25 (C53)
       Queue Size: 10
       Topic: /thumb_25
       Torque Arrow Scale: 2
@@ -1425,7 +1411,7 @@ Visualization Manager:
       Force Color: 204; 51; 51
       Hide Small Values: false
       History Length: 1
-      Name: WrenchStamped
+      Name: thumb_26 (C63)
       Queue Size: 10
       Topic: /thumb_26
       Torque Arrow Scale: 2
@@ -1440,7 +1426,7 @@ Visualization Manager:
       Force Color: 204; 51; 51
       Hide Small Values: false
       History Length: 1
-      Name: WrenchStamped
+      Name: thumb_27 (C73)
       Queue Size: 10
       Topic: /thumb_27
       Torque Arrow Scale: 2
@@ -1455,7 +1441,7 @@ Visualization Manager:
       Force Color: 204; 51; 51
       Hide Small Values: false
       History Length: 1
-      Name: WrenchStamped
+      Name: thumb_28 (C12)
       Queue Size: 10
       Topic: /thumb_28
       Torque Arrow Scale: 2
@@ -1470,7 +1456,7 @@ Visualization Manager:
       Force Color: 204; 51; 51
       Hide Small Values: false
       History Length: 1
-      Name: WrenchStamped
+      Name: thumb_29 (C22)
       Queue Size: 10
       Topic: /thumb_29
       Torque Arrow Scale: 2
@@ -1485,7 +1471,7 @@ Visualization Manager:
       Force Color: 204; 51; 51
       Hide Small Values: false
       History Length: 1
-      Name: WrenchStamped
+      Name: thumb_30 (C32)
       Queue Size: 10
       Topic: /thumb_30
       Torque Arrow Scale: 2
@@ -1500,7 +1486,7 @@ Visualization Manager:
       Force Color: 204; 51; 51
       Hide Small Values: false
       History Length: 1
-      Name: WrenchStamped
+      Name: thumb_31 (C42)
       Queue Size: 10
       Topic: /thumb_31
       Torque Arrow Scale: 2
@@ -1515,7 +1501,7 @@ Visualization Manager:
       Force Color: 204; 51; 51
       Hide Small Values: false
       History Length: 1
-      Name: WrenchStamped
+      Name: thumb_32 (C52)
       Queue Size: 10
       Topic: /thumb_32
       Torque Arrow Scale: 2
@@ -1530,7 +1516,7 @@ Visualization Manager:
       Force Color: 204; 51; 51
       Hide Small Values: false
       History Length: 1
-      Name: WrenchStamped
+      Name: thumb_33 (C62)
       Queue Size: 10
       Topic: /thumb_33
       Torque Arrow Scale: 2
@@ -1545,7 +1531,7 @@ Visualization Manager:
       Force Color: 204; 51; 51
       Hide Small Values: false
       History Length: 1
-      Name: WrenchStamped
+      Name: thumb_34 (C72)
       Queue Size: 10
       Topic: /thumb_34
       Torque Arrow Scale: 2
@@ -1560,7 +1546,7 @@ Visualization Manager:
       Force Color: 204; 51; 51
       Hide Small Values: false
       History Length: 1
-      Name: WrenchStamped
+      Name: thumb_35 (C11)
       Queue Size: 10
       Topic: /thumb_35
       Torque Arrow Scale: 2
@@ -1575,7 +1561,7 @@ Visualization Manager:
       Force Color: 204; 51; 51
       Hide Small Values: false
       History Length: 1
-      Name: WrenchStamped
+      Name: thumb_36 (C21)
       Queue Size: 10
       Topic: /thumb_36
       Torque Arrow Scale: 2
@@ -1590,7 +1576,7 @@ Visualization Manager:
       Force Color: 204; 51; 51
       Hide Small Values: false
       History Length: 1
-      Name: WrenchStamped
+      Name: thumb_37 (C31)
       Queue Size: 10
       Topic: /thumb_37
       Torque Arrow Scale: 2
@@ -1605,7 +1591,7 @@ Visualization Manager:
       Force Color: 204; 51; 51
       Hide Small Values: false
       History Length: 1
-      Name: WrenchStamped
+      Name: thumb_38 (C41)
       Queue Size: 10
       Topic: /thumb_38
       Torque Arrow Scale: 2
@@ -1620,7 +1606,7 @@ Visualization Manager:
       Force Color: 204; 51; 51
       Hide Small Values: false
       History Length: 1
-      Name: WrenchStamped
+      Name: thumb_39 (C51)
       Queue Size: 10
       Topic: /thumb_39
       Torque Arrow Scale: 2
@@ -1635,7 +1621,7 @@ Visualization Manager:
       Force Color: 204; 51; 51
       Hide Small Values: false
       History Length: 1
-      Name: WrenchStamped
+      Name: thumb_40 (C61)
       Queue Size: 10
       Topic: /thumb_40
       Torque Arrow Scale: 2
@@ -1650,13 +1636,14 @@ Visualization Manager:
       Force Color: 204; 51; 51
       Hide Small Values: false
       History Length: 1
-      Name: WrenchStamped
+      Name: thumb_41 (C71)
       Queue Size: 10
       Topic: /thumb_41
       Torque Arrow Scale: 2
       Torque Color: 204; 204; 51
       Unreliable: false
       Value: true
+# INDEX
     - Alpha: 1
       Arrow Width: 0.009999999776482582
       Class: rviz/WrenchStamped
@@ -1665,7 +1652,7 @@ Visualization Manager:
       Force Color: 204; 51; 51
       Hide Small Values: false
       History Length: 1
-      Name: WrenchStamped
+      Name: index_00 (A11)
       Queue Size: 10
       Topic: /index_00
       Torque Arrow Scale: 2
@@ -1680,7 +1667,7 @@ Visualization Manager:
       Force Color: 204; 51; 51
       Hide Small Values: false
       History Length: 1
-      Name: WrenchStamped
+      Name: index_01 (A12)
       Queue Size: 10
       Topic: /index_01
       Torque Arrow Scale: 2
@@ -1695,7 +1682,7 @@ Visualization Manager:
       Force Color: 204; 51; 51
       Hide Small Values: false
       History Length: 1
-      Name: WrenchStamped
+      Name: index_02 (B12)
       Queue Size: 10
       Topic: /index_02
       Torque Arrow Scale: 2
@@ -1710,7 +1697,7 @@ Visualization Manager:
       Force Color: 204; 51; 51
       Hide Small Values: false
       History Length: 1
-      Name: WrenchStamped
+      Name: index_03 (B22)
       Queue Size: 10
       Topic: /index_03
       Torque Arrow Scale: 2
@@ -1725,7 +1712,7 @@ Visualization Manager:
       Force Color: 204; 51; 51
       Hide Small Values: false
       History Length: 1
-      Name: WrenchStamped
+      Name: index_04 (B32)
       Queue Size: 10
       Topic: /index_04
       Torque Arrow Scale: 2
@@ -1740,7 +1727,7 @@ Visualization Manager:
       Force Color: 204; 51; 51
       Hide Small Values: false
       History Length: 1
-      Name: WrenchStamped
+      Name: index_05 (B42)
       Queue Size: 10
       Topic: /index_05
       Torque Arrow Scale: 2
@@ -1755,7 +1742,7 @@ Visualization Manager:
       Force Color: 204; 51; 51
       Hide Small Values: false
       History Length: 1
-      Name: WrenchStamped
+      Name: index_06 (B52)
       Queue Size: 10
       Topic: /index_06
       Torque Arrow Scale: 2
@@ -1770,7 +1757,7 @@ Visualization Manager:
       Force Color: 204; 51; 51
       Hide Small Values: false
       History Length: 1
-      Name: WrenchStamped
+      Name: index_07 (B62)
       Queue Size: 10
       Topic: /index_07
       Torque Arrow Scale: 2
@@ -1785,7 +1772,7 @@ Visualization Manager:
       Force Color: 204; 51; 51
       Hide Small Values: false
       History Length: 1
-      Name: WrenchStamped
+      Name: index_08 (B11)
       Queue Size: 10
       Topic: /index_08
       Torque Arrow Scale: 2
@@ -1800,7 +1787,7 @@ Visualization Manager:
       Force Color: 204; 51; 51
       Hide Small Values: false
       History Length: 1
-      Name: WrenchStamped
+      Name: index_09 (B21)
       Queue Size: 10
       Topic: /index_09
       Torque Arrow Scale: 2
@@ -1815,7 +1802,7 @@ Visualization Manager:
       Force Color: 204; 51; 51
       Hide Small Values: false
       History Length: 1
-      Name: WrenchStamped
+      Name: index_10 (B31)
       Queue Size: 10
       Topic: /index_10
       Torque Arrow Scale: 2
@@ -1830,7 +1817,7 @@ Visualization Manager:
       Force Color: 204; 51; 51
       Hide Small Values: false
       History Length: 1
-      Name: WrenchStamped
+      Name: index_11 (B41)
       Queue Size: 10
       Topic: /index_11
       Torque Arrow Scale: 2
@@ -1845,7 +1832,7 @@ Visualization Manager:
       Force Color: 204; 51; 51
       Hide Small Values: false
       History Length: 1
-      Name: WrenchStamped
+      Name: index_12 (B51)
       Queue Size: 10
       Topic: /index_12
       Torque Arrow Scale: 2
@@ -1860,7 +1847,7 @@ Visualization Manager:
       Force Color: 204; 51; 51
       Hide Small Values: false
       History Length: 1
-      Name: WrenchStamped
+      Name: index_13 (B61)
       Queue Size: 10
       Topic: /index_13
       Torque Arrow Scale: 2
@@ -1875,7 +1862,7 @@ Visualization Manager:
       Force Color: 204; 51; 51
       Hide Small Values: false
       History Length: 1
-      Name: WrenchStamped
+      Name: index_14 (C14)
       Queue Size: 10
       Topic: /index_14
       Torque Arrow Scale: 2
@@ -1890,7 +1877,7 @@ Visualization Manager:
       Force Color: 204; 51; 51
       Hide Small Values: false
       History Length: 1
-      Name: WrenchStamped
+      Name: index_15 (C24)
       Queue Size: 10
       Topic: /index_15
       Torque Arrow Scale: 2
@@ -1905,7 +1892,7 @@ Visualization Manager:
       Force Color: 204; 51; 51
       Hide Small Values: false
       History Length: 1
-      Name: WrenchStamped
+      Name: index_16 (C34)
       Queue Size: 10
       Topic: /index_16
       Torque Arrow Scale: 2
@@ -1920,7 +1907,7 @@ Visualization Manager:
       Force Color: 204; 51; 51
       Hide Small Values: false
       History Length: 1
-      Name: WrenchStamped
+      Name: index_17 (C44)
       Queue Size: 10
       Topic: /index_17
       Torque Arrow Scale: 2
@@ -1935,7 +1922,7 @@ Visualization Manager:
       Force Color: 204; 51; 51
       Hide Small Values: false
       History Length: 1
-      Name: WrenchStamped
+      Name: index_18 (C54)
       Queue Size: 10
       Topic: /index_18
       Torque Arrow Scale: 2
@@ -1950,7 +1937,7 @@ Visualization Manager:
       Force Color: 204; 51; 51
       Hide Small Values: false
       History Length: 1
-      Name: WrenchStamped
+      Name: index_19 (C64)
       Queue Size: 10
       Topic: /index_19
       Torque Arrow Scale: 2
@@ -1965,7 +1952,7 @@ Visualization Manager:
       Force Color: 204; 51; 51
       Hide Small Values: false
       History Length: 1
-      Name: WrenchStamped
+      Name: index_20 (C74)
       Queue Size: 10
       Topic: /index_20
       Torque Arrow Scale: 2
@@ -1980,7 +1967,7 @@ Visualization Manager:
       Force Color: 204; 51; 51
       Hide Small Values: false
       History Length: 1
-      Name: WrenchStamped
+      Name: index_21 (C13)
       Queue Size: 10
       Topic: /index_21
       Torque Arrow Scale: 2
@@ -1995,22 +1982,7 @@ Visualization Manager:
       Force Color: 204; 51; 51
       Hide Small Values: false
       History Length: 1
-      Name: WrenchStamped
-      Queue Size: 10
-      Topic: /index_21
-      Torque Arrow Scale: 2
-      Torque Color: 204; 204; 51
-      Unreliable: false
-      Value: true
-    - Alpha: 1
-      Arrow Width: 0.009999999776482582
-      Class: rviz/WrenchStamped
-      Enabled: true
-      Force Arrow Scale: 0.0010000000474974513
-      Force Color: 204; 51; 51
-      Hide Small Values: false
-      History Length: 1
-      Name: WrenchStamped
+      Name: index_22 (C23)
       Queue Size: 10
       Topic: /index_22
       Torque Arrow Scale: 2
@@ -2025,7 +1997,7 @@ Visualization Manager:
       Force Color: 204; 51; 51
       Hide Small Values: false
       History Length: 1
-      Name: WrenchStamped
+      Name: index_23 (C33)
       Queue Size: 10
       Topic: /index_23
       Torque Arrow Scale: 2
@@ -2040,7 +2012,7 @@ Visualization Manager:
       Force Color: 204; 51; 51
       Hide Small Values: false
       History Length: 1
-      Name: WrenchStamped
+      Name: index_24 (C43)
       Queue Size: 10
       Topic: /index_24
       Torque Arrow Scale: 2
@@ -2055,7 +2027,7 @@ Visualization Manager:
       Force Color: 204; 51; 51
       Hide Small Values: false
       History Length: 1
-      Name: WrenchStamped
+      Name: index_25 (C53)
       Queue Size: 10
       Topic: /index_25
       Torque Arrow Scale: 2
@@ -2070,7 +2042,7 @@ Visualization Manager:
       Force Color: 204; 51; 51
       Hide Small Values: false
       History Length: 1
-      Name: WrenchStamped
+      Name: index_26 (C63)
       Queue Size: 10
       Topic: /index_26
       Torque Arrow Scale: 2
@@ -2085,7 +2057,7 @@ Visualization Manager:
       Force Color: 204; 51; 51
       Hide Small Values: false
       History Length: 1
-      Name: WrenchStamped
+      Name: index_27 (C73)
       Queue Size: 10
       Topic: /index_27
       Torque Arrow Scale: 2
@@ -2100,7 +2072,7 @@ Visualization Manager:
       Force Color: 204; 51; 51
       Hide Small Values: false
       History Length: 1
-      Name: WrenchStamped
+      Name: index_28 (C12)
       Queue Size: 10
       Topic: /index_28
       Torque Arrow Scale: 2
@@ -2115,7 +2087,7 @@ Visualization Manager:
       Force Color: 204; 51; 51
       Hide Small Values: false
       History Length: 1
-      Name: WrenchStamped
+      Name: index_29 (C22)
       Queue Size: 10
       Topic: /index_29
       Torque Arrow Scale: 2
@@ -2130,7 +2102,7 @@ Visualization Manager:
       Force Color: 204; 51; 51
       Hide Small Values: false
       History Length: 1
-      Name: WrenchStamped
+      Name: index_30 (C32)
       Queue Size: 10
       Topic: /index_30
       Torque Arrow Scale: 2
@@ -2145,7 +2117,7 @@ Visualization Manager:
       Force Color: 204; 51; 51
       Hide Small Values: false
       History Length: 1
-      Name: WrenchStamped
+      Name: index_31 (C42)
       Queue Size: 10
       Topic: /index_31
       Torque Arrow Scale: 2
@@ -2160,7 +2132,7 @@ Visualization Manager:
       Force Color: 204; 51; 51
       Hide Small Values: false
       History Length: 1
-      Name: WrenchStamped
+      Name: index_32 (C52)
       Queue Size: 10
       Topic: /index_32
       Torque Arrow Scale: 2
@@ -2175,7 +2147,7 @@ Visualization Manager:
       Force Color: 204; 51; 51
       Hide Small Values: false
       History Length: 1
-      Name: WrenchStamped
+      Name: index_33 (C62)
       Queue Size: 10
       Topic: /index_33
       Torque Arrow Scale: 2
@@ -2190,7 +2162,7 @@ Visualization Manager:
       Force Color: 204; 51; 51
       Hide Small Values: false
       History Length: 1
-      Name: WrenchStamped
+      Name: index_34 (C72)
       Queue Size: 10
       Topic: /index_34
       Torque Arrow Scale: 2
@@ -2205,7 +2177,7 @@ Visualization Manager:
       Force Color: 204; 51; 51
       Hide Small Values: false
       History Length: 1
-      Name: WrenchStamped
+      Name: index_35 (C11)
       Queue Size: 10
       Topic: /index_35
       Torque Arrow Scale: 2
@@ -2220,7 +2192,7 @@ Visualization Manager:
       Force Color: 204; 51; 51
       Hide Small Values: false
       History Length: 1
-      Name: WrenchStamped
+      Name: index_36 (C21)
       Queue Size: 10
       Topic: /index_36
       Torque Arrow Scale: 2
@@ -2235,7 +2207,7 @@ Visualization Manager:
       Force Color: 204; 51; 51
       Hide Small Values: false
       History Length: 1
-      Name: WrenchStamped
+      Name: index_37 (C31)
       Queue Size: 10
       Topic: /index_37
       Torque Arrow Scale: 2
@@ -2250,7 +2222,7 @@ Visualization Manager:
       Force Color: 204; 51; 51
       Hide Small Values: false
       History Length: 1
-      Name: WrenchStamped
+      Name: index_38 (C41)
       Queue Size: 10
       Topic: /index_38
       Torque Arrow Scale: 2
@@ -2265,7 +2237,7 @@ Visualization Manager:
       Force Color: 204; 51; 51
       Hide Small Values: false
       History Length: 1
-      Name: WrenchStamped
+      Name: index_39 (C51)
       Queue Size: 10
       Topic: /index_39
       Torque Arrow Scale: 2
@@ -2280,7 +2252,7 @@ Visualization Manager:
       Force Color: 204; 51; 51
       Hide Small Values: false
       History Length: 1
-      Name: WrenchStamped
+      Name: index_40 (C61)
       Queue Size: 10
       Topic: /index_40
       Torque Arrow Scale: 2
@@ -2295,13 +2267,14 @@ Visualization Manager:
       Force Color: 204; 51; 51
       Hide Small Values: false
       History Length: 1
-      Name: WrenchStamped
+      Name: index_41 (C71)
       Queue Size: 10
       Topic: /index_41
       Torque Arrow Scale: 2
       Torque Color: 204; 204; 51
       Unreliable: false
       Value: true
+# MIDDLE
     - Alpha: 1
       Arrow Width: 0.009999999776482582
       Class: rviz/WrenchStamped
@@ -2310,7 +2283,7 @@ Visualization Manager:
       Force Color: 204; 51; 51
       Hide Small Values: false
       History Length: 1
-      Name: WrenchStamped
+      Name: middle_00 (A11)
       Queue Size: 10
       Topic: /middle_00
       Torque Arrow Scale: 2
@@ -2325,7 +2298,7 @@ Visualization Manager:
       Force Color: 204; 51; 51
       Hide Small Values: false
       History Length: 1
-      Name: WrenchStamped
+      Name: middle_01 (A12)
       Queue Size: 10
       Topic: /middle_01
       Torque Arrow Scale: 2
@@ -2340,7 +2313,7 @@ Visualization Manager:
       Force Color: 204; 51; 51
       Hide Small Values: false
       History Length: 1
-      Name: WrenchStamped
+      Name: middle_02 (B12)
       Queue Size: 10
       Topic: /middle_02
       Torque Arrow Scale: 2
@@ -2355,7 +2328,7 @@ Visualization Manager:
       Force Color: 204; 51; 51
       Hide Small Values: false
       History Length: 1
-      Name: WrenchStamped
+      Name: middle_03 (B22)
       Queue Size: 10
       Topic: /middle_03
       Torque Arrow Scale: 2
@@ -2370,7 +2343,7 @@ Visualization Manager:
       Force Color: 204; 51; 51
       Hide Small Values: false
       History Length: 1
-      Name: WrenchStamped
+      Name: middle_04 (B32)
       Queue Size: 10
       Topic: /middle_04
       Torque Arrow Scale: 2
@@ -2385,7 +2358,7 @@ Visualization Manager:
       Force Color: 204; 51; 51
       Hide Small Values: false
       History Length: 1
-      Name: WrenchStamped
+      Name: middle_05 (B42)
       Queue Size: 10
       Topic: /middle_05
       Torque Arrow Scale: 2
@@ -2400,7 +2373,7 @@ Visualization Manager:
       Force Color: 204; 51; 51
       Hide Small Values: false
       History Length: 1
-      Name: WrenchStamped
+      Name: middle_06 (B52)
       Queue Size: 10
       Topic: /middle_06
       Torque Arrow Scale: 2
@@ -2415,7 +2388,7 @@ Visualization Manager:
       Force Color: 204; 51; 51
       Hide Small Values: false
       History Length: 1
-      Name: WrenchStamped
+      Name: middle_07 (B62)
       Queue Size: 10
       Topic: /middle_07
       Torque Arrow Scale: 2
@@ -2430,7 +2403,7 @@ Visualization Manager:
       Force Color: 204; 51; 51
       Hide Small Values: false
       History Length: 1
-      Name: WrenchStamped
+      Name: middle_08 (B11)
       Queue Size: 10
       Topic: /middle_08
       Torque Arrow Scale: 2
@@ -2445,7 +2418,7 @@ Visualization Manager:
       Force Color: 204; 51; 51
       Hide Small Values: false
       History Length: 1
-      Name: WrenchStamped
+      Name: middle_09 (B21)
       Queue Size: 10
       Topic: /middle_09
       Torque Arrow Scale: 2
@@ -2460,7 +2433,7 @@ Visualization Manager:
       Force Color: 204; 51; 51
       Hide Small Values: false
       History Length: 1
-      Name: WrenchStamped
+      Name: middle_10 (B31)
       Queue Size: 10
       Topic: /middle_10
       Torque Arrow Scale: 2
@@ -2475,7 +2448,7 @@ Visualization Manager:
       Force Color: 204; 51; 51
       Hide Small Values: false
       History Length: 1
-      Name: WrenchStamped
+      Name: middle_11 (B41)
       Queue Size: 10
       Topic: /middle_11
       Torque Arrow Scale: 2
@@ -2490,7 +2463,7 @@ Visualization Manager:
       Force Color: 204; 51; 51
       Hide Small Values: false
       History Length: 1
-      Name: WrenchStamped
+      Name: middle_12 (B51)
       Queue Size: 10
       Topic: /middle_12
       Torque Arrow Scale: 2
@@ -2505,7 +2478,7 @@ Visualization Manager:
       Force Color: 204; 51; 51
       Hide Small Values: false
       History Length: 1
-      Name: WrenchStamped
+      Name: middle_13 (B61)
       Queue Size: 10
       Topic: /middle_13
       Torque Arrow Scale: 2
@@ -2520,7 +2493,7 @@ Visualization Manager:
       Force Color: 204; 51; 51
       Hide Small Values: false
       History Length: 1
-      Name: WrenchStamped
+      Name: middle_14 (C14)
       Queue Size: 10
       Topic: /middle_14
       Torque Arrow Scale: 2
@@ -2535,7 +2508,7 @@ Visualization Manager:
       Force Color: 204; 51; 51
       Hide Small Values: false
       History Length: 1
-      Name: WrenchStamped
+      Name: middle_15 (C24)
       Queue Size: 10
       Topic: /middle_15
       Torque Arrow Scale: 2
@@ -2550,7 +2523,7 @@ Visualization Manager:
       Force Color: 204; 51; 51
       Hide Small Values: false
       History Length: 1
-      Name: WrenchStamped
+      Name: middle_16 (C34)
       Queue Size: 10
       Topic: /middle_16
       Torque Arrow Scale: 2
@@ -2565,7 +2538,7 @@ Visualization Manager:
       Force Color: 204; 51; 51
       Hide Small Values: false
       History Length: 1
-      Name: WrenchStamped
+      Name: middle_17 (C44)
       Queue Size: 10
       Topic: /middle_17
       Torque Arrow Scale: 2
@@ -2580,7 +2553,7 @@ Visualization Manager:
       Force Color: 204; 51; 51
       Hide Small Values: false
       History Length: 1
-      Name: WrenchStamped
+      Name: middle_18 (C54)
       Queue Size: 10
       Topic: /middle_18
       Torque Arrow Scale: 2
@@ -2595,7 +2568,7 @@ Visualization Manager:
       Force Color: 204; 51; 51
       Hide Small Values: false
       History Length: 1
-      Name: WrenchStamped
+      Name: middle_19 (C64)
       Queue Size: 10
       Topic: /middle_19
       Torque Arrow Scale: 2
@@ -2610,7 +2583,7 @@ Visualization Manager:
       Force Color: 204; 51; 51
       Hide Small Values: false
       History Length: 1
-      Name: WrenchStamped
+      Name: middle_20 (C74)
       Queue Size: 10
       Topic: /middle_20
       Torque Arrow Scale: 2
@@ -2625,7 +2598,7 @@ Visualization Manager:
       Force Color: 204; 51; 51
       Hide Small Values: false
       History Length: 1
-      Name: WrenchStamped
+      Name: middle_21 (C13)
       Queue Size: 10
       Topic: /middle_21
       Torque Arrow Scale: 2
@@ -2640,22 +2613,7 @@ Visualization Manager:
       Force Color: 204; 51; 51
       Hide Small Values: false
       History Length: 1
-      Name: WrenchStamped
-      Queue Size: 10
-      Topic: /middle_21
-      Torque Arrow Scale: 2
-      Torque Color: 204; 204; 51
-      Unreliable: false
-      Value: true
-    - Alpha: 1
-      Arrow Width: 0.009999999776482582
-      Class: rviz/WrenchStamped
-      Enabled: true
-      Force Arrow Scale: 0.0010000000474974513
-      Force Color: 204; 51; 51
-      Hide Small Values: false
-      History Length: 1
-      Name: WrenchStamped
+      Name: middle_22 (C23)
       Queue Size: 10
       Topic: /middle_22
       Torque Arrow Scale: 2
@@ -2670,7 +2628,7 @@ Visualization Manager:
       Force Color: 204; 51; 51
       Hide Small Values: false
       History Length: 1
-      Name: WrenchStamped
+      Name: middle_23 (C33)
       Queue Size: 10
       Topic: /middle_23
       Torque Arrow Scale: 2
@@ -2685,7 +2643,7 @@ Visualization Manager:
       Force Color: 204; 51; 51
       Hide Small Values: false
       History Length: 1
-      Name: WrenchStamped
+      Name: middle_24 (C43)
       Queue Size: 10
       Topic: /middle_24
       Torque Arrow Scale: 2
@@ -2700,7 +2658,7 @@ Visualization Manager:
       Force Color: 204; 51; 51
       Hide Small Values: false
       History Length: 1
-      Name: WrenchStamped
+      Name: middle_25 (C53)
       Queue Size: 10
       Topic: /middle_25
       Torque Arrow Scale: 2
@@ -2715,7 +2673,7 @@ Visualization Manager:
       Force Color: 204; 51; 51
       Hide Small Values: false
       History Length: 1
-      Name: WrenchStamped
+      Name: middle_26 (C63)
       Queue Size: 10
       Topic: /middle_26
       Torque Arrow Scale: 2
@@ -2730,7 +2688,7 @@ Visualization Manager:
       Force Color: 204; 51; 51
       Hide Small Values: false
       History Length: 1
-      Name: WrenchStamped
+      Name: middle_27 (C73)
       Queue Size: 10
       Topic: /middle_27
       Torque Arrow Scale: 2
@@ -2745,7 +2703,7 @@ Visualization Manager:
       Force Color: 204; 51; 51
       Hide Small Values: false
       History Length: 1
-      Name: WrenchStamped
+      Name: middle_28 (C12)
       Queue Size: 10
       Topic: /middle_28
       Torque Arrow Scale: 2
@@ -2760,7 +2718,7 @@ Visualization Manager:
       Force Color: 204; 51; 51
       Hide Small Values: false
       History Length: 1
-      Name: WrenchStamped
+      Name: middle_29 (C22)
       Queue Size: 10
       Topic: /middle_29
       Torque Arrow Scale: 2
@@ -2775,7 +2733,7 @@ Visualization Manager:
       Force Color: 204; 51; 51
       Hide Small Values: false
       History Length: 1
-      Name: WrenchStamped
+      Name: middle_30 (C32)
       Queue Size: 10
       Topic: /middle_30
       Torque Arrow Scale: 2
@@ -2790,7 +2748,7 @@ Visualization Manager:
       Force Color: 204; 51; 51
       Hide Small Values: false
       History Length: 1
-      Name: WrenchStamped
+      Name: middle_31 (C42)
       Queue Size: 10
       Topic: /middle_31
       Torque Arrow Scale: 2
@@ -2805,7 +2763,7 @@ Visualization Manager:
       Force Color: 204; 51; 51
       Hide Small Values: false
       History Length: 1
-      Name: WrenchStamped
+      Name: middle_32 (C52)
       Queue Size: 10
       Topic: /middle_32
       Torque Arrow Scale: 2
@@ -2820,7 +2778,7 @@ Visualization Manager:
       Force Color: 204; 51; 51
       Hide Small Values: false
       History Length: 1
-      Name: WrenchStamped
+      Name: middle_33 (C62)
       Queue Size: 10
       Topic: /middle_33
       Torque Arrow Scale: 2
@@ -2835,7 +2793,7 @@ Visualization Manager:
       Force Color: 204; 51; 51
       Hide Small Values: false
       History Length: 1
-      Name: WrenchStamped
+      Name: middle_34 (C72)
       Queue Size: 10
       Topic: /middle_34
       Torque Arrow Scale: 2
@@ -2850,7 +2808,7 @@ Visualization Manager:
       Force Color: 204; 51; 51
       Hide Small Values: false
       History Length: 1
-      Name: WrenchStamped
+      Name: middle_35 (C11)
       Queue Size: 10
       Topic: /middle_35
       Torque Arrow Scale: 2
@@ -2865,7 +2823,7 @@ Visualization Manager:
       Force Color: 204; 51; 51
       Hide Small Values: false
       History Length: 1
-      Name: WrenchStamped
+      Name: middle_36 (C21)
       Queue Size: 10
       Topic: /middle_36
       Torque Arrow Scale: 2
@@ -2880,7 +2838,7 @@ Visualization Manager:
       Force Color: 204; 51; 51
       Hide Small Values: false
       History Length: 1
-      Name: WrenchStamped
+      Name: middle_37 (C31)
       Queue Size: 10
       Topic: /middle_37
       Torque Arrow Scale: 2
@@ -2895,7 +2853,7 @@ Visualization Manager:
       Force Color: 204; 51; 51
       Hide Small Values: false
       History Length: 1
-      Name: WrenchStamped
+      Name: middle_38 (C41)
       Queue Size: 10
       Topic: /middle_38
       Torque Arrow Scale: 2
@@ -2910,7 +2868,7 @@ Visualization Manager:
       Force Color: 204; 51; 51
       Hide Small Values: false
       History Length: 1
-      Name: WrenchStamped
+      Name: middle_39 (C51)
       Queue Size: 10
       Topic: /middle_39
       Torque Arrow Scale: 2
@@ -2925,7 +2883,7 @@ Visualization Manager:
       Force Color: 204; 51; 51
       Hide Small Values: false
       History Length: 1
-      Name: WrenchStamped
+      Name: middle_40 (C61)
       Queue Size: 10
       Topic: /middle_40
       Torque Arrow Scale: 2
@@ -2940,13 +2898,14 @@ Visualization Manager:
       Force Color: 204; 51; 51
       Hide Small Values: false
       History Length: 1
-      Name: WrenchStamped
+      Name: middle_41 (C71)
       Queue Size: 10
       Topic: /middle_41
       Torque Arrow Scale: 2
       Torque Color: 204; 204; 51
       Unreliable: false
       Value: true
+# RING
     - Alpha: 1
       Arrow Width: 0.009999999776482582
       Class: rviz/WrenchStamped
@@ -2955,7 +2914,7 @@ Visualization Manager:
       Force Color: 204; 51; 51
       Hide Small Values: false
       History Length: 1
-      Name: WrenchStamped
+      Name: ring_00 (A11)
       Queue Size: 10
       Topic: /ring_00
       Torque Arrow Scale: 2
@@ -2970,7 +2929,7 @@ Visualization Manager:
       Force Color: 204; 51; 51
       Hide Small Values: false
       History Length: 1
-      Name: WrenchStamped
+      Name: ring_01 (A12)
       Queue Size: 10
       Topic: /ring_01
       Torque Arrow Scale: 2
@@ -2985,7 +2944,7 @@ Visualization Manager:
       Force Color: 204; 51; 51
       Hide Small Values: false
       History Length: 1
-      Name: WrenchStamped
+      Name: ring_02 (B12)
       Queue Size: 10
       Topic: /ring_02
       Torque Arrow Scale: 2
@@ -3000,7 +2959,7 @@ Visualization Manager:
       Force Color: 204; 51; 51
       Hide Small Values: false
       History Length: 1
-      Name: WrenchStamped
+      Name: ring_03 (B22)
       Queue Size: 10
       Topic: /ring_03
       Torque Arrow Scale: 2
@@ -3015,7 +2974,7 @@ Visualization Manager:
       Force Color: 204; 51; 51
       Hide Small Values: false
       History Length: 1
-      Name: WrenchStamped
+      Name: ring_04 (B32)
       Queue Size: 10
       Topic: /ring_04
       Torque Arrow Scale: 2
@@ -3030,7 +2989,7 @@ Visualization Manager:
       Force Color: 204; 51; 51
       Hide Small Values: false
       History Length: 1
-      Name: WrenchStamped
+      Name: ring_05 (B42)
       Queue Size: 10
       Topic: /ring_05
       Torque Arrow Scale: 2
@@ -3045,7 +3004,7 @@ Visualization Manager:
       Force Color: 204; 51; 51
       Hide Small Values: false
       History Length: 1
-      Name: WrenchStamped
+      Name: ring_06 (B52)
       Queue Size: 10
       Topic: /ring_06
       Torque Arrow Scale: 2
@@ -3060,7 +3019,7 @@ Visualization Manager:
       Force Color: 204; 51; 51
       Hide Small Values: false
       History Length: 1
-      Name: WrenchStamped
+      Name: ring_07 (B62)
       Queue Size: 10
       Topic: /ring_07
       Torque Arrow Scale: 2
@@ -3075,7 +3034,7 @@ Visualization Manager:
       Force Color: 204; 51; 51
       Hide Small Values: false
       History Length: 1
-      Name: WrenchStamped
+      Name: ring_08 (B11)
       Queue Size: 10
       Topic: /ring_08
       Torque Arrow Scale: 2
@@ -3090,7 +3049,7 @@ Visualization Manager:
       Force Color: 204; 51; 51
       Hide Small Values: false
       History Length: 1
-      Name: WrenchStamped
+      Name: ring_09 (B21)
       Queue Size: 10
       Topic: /ring_09
       Torque Arrow Scale: 2
@@ -3105,7 +3064,7 @@ Visualization Manager:
       Force Color: 204; 51; 51
       Hide Small Values: false
       History Length: 1
-      Name: WrenchStamped
+      Name: ring_10 (B31)
       Queue Size: 10
       Topic: /ring_10
       Torque Arrow Scale: 2
@@ -3120,7 +3079,7 @@ Visualization Manager:
       Force Color: 204; 51; 51
       Hide Small Values: false
       History Length: 1
-      Name: WrenchStamped
+      Name: ring_11 (B41)
       Queue Size: 10
       Topic: /ring_11
       Torque Arrow Scale: 2
@@ -3135,7 +3094,7 @@ Visualization Manager:
       Force Color: 204; 51; 51
       Hide Small Values: false
       History Length: 1
-      Name: WrenchStamped
+      Name: ring_12 (B51)
       Queue Size: 10
       Topic: /ring_12
       Torque Arrow Scale: 2
@@ -3150,7 +3109,7 @@ Visualization Manager:
       Force Color: 204; 51; 51
       Hide Small Values: false
       History Length: 1
-      Name: WrenchStamped
+      Name: ring_13 (B61)
       Queue Size: 10
       Topic: /ring_13
       Torque Arrow Scale: 2
@@ -3165,7 +3124,7 @@ Visualization Manager:
       Force Color: 204; 51; 51
       Hide Small Values: false
       History Length: 1
-      Name: WrenchStamped
+      Name: ring_14 (C14)
       Queue Size: 10
       Topic: /ring_14
       Torque Arrow Scale: 2
@@ -3180,7 +3139,7 @@ Visualization Manager:
       Force Color: 204; 51; 51
       Hide Small Values: false
       History Length: 1
-      Name: WrenchStamped
+      Name: ring_15 (C24)
       Queue Size: 10
       Topic: /ring_15
       Torque Arrow Scale: 2
@@ -3195,7 +3154,7 @@ Visualization Manager:
       Force Color: 204; 51; 51
       Hide Small Values: false
       History Length: 1
-      Name: WrenchStamped
+      Name: ring_16 (C34)
       Queue Size: 10
       Topic: /ring_16
       Torque Arrow Scale: 2
@@ -3210,7 +3169,7 @@ Visualization Manager:
       Force Color: 204; 51; 51
       Hide Small Values: false
       History Length: 1
-      Name: WrenchStamped
+      Name: ring_17 (C44)
       Queue Size: 10
       Topic: /ring_17
       Torque Arrow Scale: 2
@@ -3225,7 +3184,7 @@ Visualization Manager:
       Force Color: 204; 51; 51
       Hide Small Values: false
       History Length: 1
-      Name: WrenchStamped
+      Name: ring_18 (C54)
       Queue Size: 10
       Topic: /ring_18
       Torque Arrow Scale: 2
@@ -3240,7 +3199,7 @@ Visualization Manager:
       Force Color: 204; 51; 51
       Hide Small Values: false
       History Length: 1
-      Name: WrenchStamped
+      Name: ring_19 (C64)
       Queue Size: 10
       Topic: /ring_19
       Torque Arrow Scale: 2
@@ -3255,7 +3214,7 @@ Visualization Manager:
       Force Color: 204; 51; 51
       Hide Small Values: false
       History Length: 1
-      Name: WrenchStamped
+      Name: ring_20 (C74)
       Queue Size: 10
       Topic: /ring_20
       Torque Arrow Scale: 2
@@ -3270,7 +3229,7 @@ Visualization Manager:
       Force Color: 204; 51; 51
       Hide Small Values: false
       History Length: 1
-      Name: WrenchStamped
+      Name: ring_21 (C13)
       Queue Size: 10
       Topic: /ring_21
       Torque Arrow Scale: 2
@@ -3285,22 +3244,7 @@ Visualization Manager:
       Force Color: 204; 51; 51
       Hide Small Values: false
       History Length: 1
-      Name: WrenchStamped
-      Queue Size: 10
-      Topic: /ring_21
-      Torque Arrow Scale: 2
-      Torque Color: 204; 204; 51
-      Unreliable: false
-      Value: true
-    - Alpha: 1
-      Arrow Width: 0.009999999776482582
-      Class: rviz/WrenchStamped
-      Enabled: true
-      Force Arrow Scale: 0.0010000000474974513
-      Force Color: 204; 51; 51
-      Hide Small Values: false
-      History Length: 1
-      Name: WrenchStamped
+      Name: ring_22 (C23)
       Queue Size: 10
       Topic: /ring_22
       Torque Arrow Scale: 2
@@ -3315,7 +3259,7 @@ Visualization Manager:
       Force Color: 204; 51; 51
       Hide Small Values: false
       History Length: 1
-      Name: WrenchStamped
+      Name: ring_23 (C33)
       Queue Size: 10
       Topic: /ring_23
       Torque Arrow Scale: 2
@@ -3330,7 +3274,7 @@ Visualization Manager:
       Force Color: 204; 51; 51
       Hide Small Values: false
       History Length: 1
-      Name: WrenchStamped
+      Name: ring_24 (C43)
       Queue Size: 10
       Topic: /ring_24
       Torque Arrow Scale: 2
@@ -3345,7 +3289,7 @@ Visualization Manager:
       Force Color: 204; 51; 51
       Hide Small Values: false
       History Length: 1
-      Name: WrenchStamped
+      Name: ring_25 (C53)
       Queue Size: 10
       Topic: /ring_25
       Torque Arrow Scale: 2
@@ -3360,7 +3304,7 @@ Visualization Manager:
       Force Color: 204; 51; 51
       Hide Small Values: false
       History Length: 1
-      Name: WrenchStamped
+      Name: ring_26 (C63)
       Queue Size: 10
       Topic: /ring_26
       Torque Arrow Scale: 2
@@ -3375,7 +3319,7 @@ Visualization Manager:
       Force Color: 204; 51; 51
       Hide Small Values: false
       History Length: 1
-      Name: WrenchStamped
+      Name: ring_27 (C73)
       Queue Size: 10
       Topic: /ring_27
       Torque Arrow Scale: 2
@@ -3390,7 +3334,7 @@ Visualization Manager:
       Force Color: 204; 51; 51
       Hide Small Values: false
       History Length: 1
-      Name: WrenchStamped
+      Name: ring_28 (C12)
       Queue Size: 10
       Topic: /ring_28
       Torque Arrow Scale: 2
@@ -3405,7 +3349,7 @@ Visualization Manager:
       Force Color: 204; 51; 51
       Hide Small Values: false
       History Length: 1
-      Name: WrenchStamped
+      Name: ring_29 (C22)
       Queue Size: 10
       Topic: /ring_29
       Torque Arrow Scale: 2
@@ -3420,7 +3364,7 @@ Visualization Manager:
       Force Color: 204; 51; 51
       Hide Small Values: false
       History Length: 1
-      Name: WrenchStamped
+      Name: ring_30 (C32)
       Queue Size: 10
       Topic: /ring_30
       Torque Arrow Scale: 2
@@ -3435,7 +3379,7 @@ Visualization Manager:
       Force Color: 204; 51; 51
       Hide Small Values: false
       History Length: 1
-      Name: WrenchStamped
+      Name: ring_31 (C42)
       Queue Size: 10
       Topic: /ring_31
       Torque Arrow Scale: 2
@@ -3450,7 +3394,7 @@ Visualization Manager:
       Force Color: 204; 51; 51
       Hide Small Values: false
       History Length: 1
-      Name: WrenchStamped
+      Name: ring_32 (C52)
       Queue Size: 10
       Topic: /ring_32
       Torque Arrow Scale: 2
@@ -3465,7 +3409,7 @@ Visualization Manager:
       Force Color: 204; 51; 51
       Hide Small Values: false
       History Length: 1
-      Name: WrenchStamped
+      Name: ring_33 (C62)
       Queue Size: 10
       Topic: /ring_33
       Torque Arrow Scale: 2
@@ -3480,7 +3424,7 @@ Visualization Manager:
       Force Color: 204; 51; 51
       Hide Small Values: false
       History Length: 1
-      Name: WrenchStamped
+      Name: ring_34 (C72)
       Queue Size: 10
       Topic: /ring_34
       Torque Arrow Scale: 2
@@ -3495,7 +3439,7 @@ Visualization Manager:
       Force Color: 204; 51; 51
       Hide Small Values: false
       History Length: 1
-      Name: WrenchStamped
+      Name: ring_35 (C11)
       Queue Size: 10
       Topic: /ring_35
       Torque Arrow Scale: 2
@@ -3510,7 +3454,7 @@ Visualization Manager:
       Force Color: 204; 51; 51
       Hide Small Values: false
       History Length: 1
-      Name: WrenchStamped
+      Name: ring_36 (C21)
       Queue Size: 10
       Topic: /ring_36
       Torque Arrow Scale: 2
@@ -3525,7 +3469,7 @@ Visualization Manager:
       Force Color: 204; 51; 51
       Hide Small Values: false
       History Length: 1
-      Name: WrenchStamped
+      Name: ring_37 (C31)
       Queue Size: 10
       Topic: /ring_37
       Torque Arrow Scale: 2
@@ -3540,7 +3484,7 @@ Visualization Manager:
       Force Color: 204; 51; 51
       Hide Small Values: false
       History Length: 1
-      Name: WrenchStamped
+      Name: ring_38 (C41)
       Queue Size: 10
       Topic: /ring_38
       Torque Arrow Scale: 2
@@ -3555,7 +3499,7 @@ Visualization Manager:
       Force Color: 204; 51; 51
       Hide Small Values: false
       History Length: 1
-      Name: WrenchStamped
+      Name: ring_39 (C51)
       Queue Size: 10
       Topic: /ring_39
       Torque Arrow Scale: 2
@@ -3570,7 +3514,7 @@ Visualization Manager:
       Force Color: 204; 51; 51
       Hide Small Values: false
       History Length: 1
-      Name: WrenchStamped
+      Name: ring_40 (C61)
       Queue Size: 10
       Topic: /ring_40
       Torque Arrow Scale: 2
@@ -3585,7 +3529,7 @@ Visualization Manager:
       Force Color: 204; 51; 51
       Hide Small Values: false
       History Length: 1
-      Name: WrenchStamped
+      Name: ring_41 (C71)
       Queue Size: 10
       Topic: /ring_41
       Torque Arrow Scale: 2
