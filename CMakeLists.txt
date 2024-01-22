@@ -7,19 +7,9 @@ find_package(catkin REQUIRED COMPONENTS
   xacro
 )
 
-# Declare a package.
 catkin_package(
-#  INCLUDE_DIRS include
-#  LIBRARIES handover_viz
-#  CATKIN_DEPENDS other_catkin_pkg
-#  DEPENDS python-scipy python-matplotlib
 )
 
-#############
-## Install ##
-#############
-
-## Install all the xacro & mesh files
 install(DIRECTORY .
   DESTINATION ${CATKIN_PACKAGE_SHARE_DESTINATION}/
   FILES_MATCHING
