@@ -35,7 +35,7 @@
                                         <relative_minimum>-1000</relative_minimum>
                                         <type>0</type>
                                     </scale>
-                                    <topic>/thumb_20</topic>
+                                    <topic>/A_20</topic>
                                     <type>geometry_msgs/WrenchStamped</type>
                                 </x_axis>
                                 <y_axis>
@@ -48,7 +48,7 @@
                                         <relative_minimum>-1000</relative_minimum>
                                         <type>1</type>
                                     </scale>
-                                    <topic>/thumb_20</topic>
+                                    <topic>/A_20</topic>
                                     <type>geometry_msgs/WrenchStamped</type>
                                 </y_axis>
                             </axes>
@@ -86,7 +86,7 @@
                                         <relative_minimum>-1000</relative_minimum>
                                         <type>0</type>
                                     </scale>
-                                    <topic>/thumb_21</topic>
+                                    <topic>/A_21</topic>
                                     <type>geometry_msgs/WrenchStamped</type>
                                 </x_axis>
                                 <y_axis>
@@ -99,7 +99,7 @@
                                         <relative_minimum>-1000</relative_minimum>
                                         <type>0</type>
                                     </scale>
-                                    <topic>/thumb_21</topic>
+                                    <topic>/A_21</topic>
                                     <type>geometry_msgs/WrenchStamped</type>
                                 </y_axis>
                             </axes>
@@ -137,7 +137,7 @@
                                         <relative_minimum>-1000</relative_minimum>
                                         <type>0</type>
                                     </scale>
-                                    <topic>/thumb_22</topic>
+                                    <topic>/A_22</topic>
                                     <type>geometry_msgs/WrenchStamped</type>
                                 </x_axis>
                                 <y_axis>
@@ -150,7 +150,7 @@
                                         <relative_minimum>-1000</relative_minimum>
                                         <type>0</type>
                                     </scale>
-                                    <topic>/thumb_22</topic>
+                                    <topic>/A_22</topic>
                                     <type>geometry_msgs/WrenchStamped</type>
                                 </y_axis>
                             </axes>
@@ -188,7 +188,7 @@
                                         <relative_minimum>-1000</relative_minimum>
                                         <type>0</type>
                                     </scale>
-                                    <topic>/thumb_23</topic>
+                                    <topic>/A_23</topic>
                                     <type>geometry_msgs/WrenchStamped</type>
                                 </x_axis>
                                 <y_axis>
@@ -201,7 +201,7 @@
                                         <relative_minimum>-1000</relative_minimum>
                                         <type>0</type>
                                     </scale>
-                                    <topic>/thumb_23</topic>
+                                    <topic>/A_23</topic>
                                     <type>geometry_msgs/WrenchStamped</type>
                                 </y_axis>
                             </axes>
@@ -239,7 +239,7 @@
                                         <relative_minimum>-1000</relative_minimum>
                                         <type>0</type>
                                     </scale>
-                                    <topic>/thumb_24</topic>
+                                    <topic>/A_24</topic>
                                     <type>geometry_msgs/WrenchStamped</type>
                                 </x_axis>
                                 <y_axis>
@@ -252,7 +252,7 @@
                                         <relative_minimum>-1000</relative_minimum>
                                         <type>0</type>
                                     </scale>
-                                    <topic>/thumb_24</topic>
+                                    <topic>/A_24</topic>
                                     <type>geometry_msgs/WrenchStamped</type>
                                 </y_axis>
                             </axes>
@@ -290,7 +290,7 @@
                                         <relative_minimum>-1000</relative_minimum>
                                         <type>0</type>
                                     </scale>
-                                    <topic>/thumb_25</topic>
+                                    <topic>/A_25</topic>
                                     <type>geometry_msgs/WrenchStamped</type>
                                 </x_axis>
                                 <y_axis>
@@ -303,7 +303,7 @@
                                         <relative_minimum>-1000</relative_minimum>
                                         <type>0</type>
                                     </scale>
-                                    <topic>/thumb_25</topic>
+                                    <topic>/A_25</topic>
                                     <type>geometry_msgs/WrenchStamped</type>
                                 </y_axis>
                             </axes>
@@ -341,7 +341,7 @@
                                         <relative_minimum>-1000</relative_minimum>
                                         <type>0</type>
                                     </scale>
-                                    <topic>/thumb_26</topic>
+                                    <topic>/A_26</topic>
                                     <type>geometry_msgs/WrenchStamped</type>
                                 </x_axis>
                                 <y_axis>
@@ -354,7 +354,7 @@
                                         <relative_minimum>-1000</relative_minimum>
                                         <type>0</type>
                                     </scale>
-                                    <topic>/thumb_26</topic>
+                                    <topic>/A_26</topic>
                                     <type>geometry_msgs/WrenchStamped</type>
                                 </y_axis>
                             </axes>
@@ -392,7 +392,7 @@
                                         <relative_minimum>-1000</relative_minimum>
                                         <type>0</type>
                                     </scale>
-                                    <topic>/thumb_27</topic>
+                                    <topic>/A_27</topic>
                                     <type>geometry_msgs/WrenchStamped</type>
                                 </x_axis>
                                 <y_axis>
@@ -405,7 +405,7 @@
                                         <relative_minimum>-1000</relative_minimum>
                                         <type>0</type>
                                     </scale>
-                                    <topic>/thumb_27</topic>
+                                    <topic>/A_27</topic>
                                     <type>geometry_msgs/WrenchStamped</type>
                                 </y_axis>
                             </axes>
@@ -443,7 +443,7 @@
                                         <relative_minimum>-1000</relative_minimum>
                                         <type>0</type>
                                     </scale>
-                                    <topic>/thumb_28</topic>
+                                    <topic>/A_28</topic>
                                     <type>geometry_msgs/WrenchStamped</type>
                                 </x_axis>
                                 <y_axis>
@@ -456,7 +456,7 @@
                                         <relative_minimum>-1000</relative_minimum>
                                         <type>0</type>
                                     </scale>
-                                    <topic>/thumb_28</topic>
+                                    <topic>/A_28</topic>
                                     <type>geometry_msgs/WrenchStamped</type>
                                 </y_axis>
                             </axes>
@@ -494,7 +494,7 @@
                                         <relative_minimum>-1000</relative_minimum>
                                         <type>0</type>
                                     </scale>
-                                    <topic>/thumb_29</topic>
+                                    <topic>/A_29</topic>
                                     <type>geometry_msgs/WrenchStamped</type>
                                 </x_axis>
                                 <y_axis>
@@ -507,7 +507,7 @@
                                         <relative_minimum>-1000</relative_minimum>
                                         <type>0</type>
                                     </scale>
-                                    <topic>/thumb_29</topic>
+                                    <topic>/A_29</topic>
                                     <type>geometry_msgs/WrenchStamped</type>
                                 </y_axis>
                             </axes>
