@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<robot xmlns:xacro="http://wiki.ros.org/xacro" name="allegro_hand_left">
+
+    <xacro:include filename="allegro_hand_description_left.xacro"/>
+    <xacro:include filename="allegro_fingertip.xacro"/>
+
+    <xacro:allegro_hand_left prefix=""/>
+    <xacro:allegro_fingertip prefix="" finger_num="0"/>
+    <xacro:allegro_fingertip prefix="" finger_num="1"/>
+    <xacro:allegro_fingertip prefix="" finger_num="2"/>
+    <xacro:allegro_fingertip prefix="" finger_num="3"/>
+
+</robot>
