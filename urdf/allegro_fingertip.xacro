@@ -1,5 +1,6 @@
 <?xml version="1.0"?>
 <robot xmlns:xacro="http://wiki.ros.org/xacro">
+    <xacro:include filename="allegro_common.xacro" />
 
     <xacro:macro name="allegro_hand_fingertip" params="prefix finger_num origin*">
         <link name="${prefix}link_${finger_num*4+3}_tip">
