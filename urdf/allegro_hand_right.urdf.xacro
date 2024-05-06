@@ -1,13 +1,13 @@
 <?xml version="1.0"?>
-<robot xmlns:xacro="http://wiki.ros.org/xacro" name="allegro_hand_left">
+<robot xmlns:xacro="http://wiki.ros.org/xacro" name="allegro_hand_right">
 
-    <xacro:include filename="allegro_hand_description_left.xacro"/>
+    <xacro:include filename="allegro_hand_description_right.xacro"/>
     <xacro:include filename="allegro_fingertip.xacro"/>
     <link name="world"></link>
 
-    <xacro:allegro_hand_left prefix="" parent="world">
+    <xacro:allegro_hand_right prefix="" parent="world">
         <origin xyz="0 0 0" rpy="0 0 0"/>
-    </xacro:allegro_hand_left>
+    </xacro:allegro_hand_right>
 
     <xacro:allegro_finger_tip prefix="" finger_num="0"/>
     <xacro:allegro_finger_tip prefix="" finger_num="1"/>

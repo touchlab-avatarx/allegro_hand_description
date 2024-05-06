@@ -13,7 +13,7 @@
     <node pkg="robot_state_publisher" type="robot_state_publisher" name="robot_state_publisher" output="screen" ></node>
 
     <param name="robot_description"
-         command="xacro $(find allegro_hand_description)/urdf/allegro_hand_description_$(arg HAND).xacro"/>
+         command="xacro $(find allegro_hand_description)/urdf/allegro_hand_$(arg HAND).urdf.xacro"/>
 
     <node name="rviz_$(arg NUM)"
           pkg="rviz" type="rviz"
