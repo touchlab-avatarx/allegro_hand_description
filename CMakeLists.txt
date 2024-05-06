@@ -1,30 +1,20 @@
-cmake_minimum_required(VERSION 2.8.3)
+cmake_minimum_required(VERSION 3.8)
 project(allegro_hand_description)
 
-find_package(catkin REQUIRED)
+if(CMAKE_COMPILER_IS_GNUCXX OR CMAKE_CXX_COMPILER_ID MATCHES "Clang")
+  add_compile_options(-Wall -Wextra -Wpedantic)
+endif()
 
-find_package(catkin REQUIRED COMPONENTS
-  xacro
+find_package(ament_cmake REQUIRED)
+
+install(
+  DIRECTORY config urdf launch meshes
+  DESTINATION share/${PROJECT_NAME}
 )
 
-catkin_package(
-)
+if(BUILD_TESTING)
+  find_package(ament_lint_auto REQUIRED)
+  ament_lint_auto_find_test_dependencies()
+endif()
 
-install(DIRECTORY .
-  DESTINATION ${CATKIN_PACKAGE_SHARE_DESTINATION}/
-  FILES_MATCHING
-  PATTERN "*.xacro"
-  PATTERN "*.world"
-  PATTERN "*.STL"
-)
-
-install(DIRECTORY launch config
-  DESTINATION ${CATKIN_PACKAGE_SHARE_DESTINATION}
-)
-
-file(GLOB xacro_files urdf/*.urdf.xacro)
-xacro_add_files(${xacro_files} TARGET urdf INSTALL)
-
-install(DIRECTORY urdf
-  DESTINATION ${CATKIN_PACKAGE_SHARE_DESTINATION}
-)
+ament_package()
