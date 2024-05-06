@@ -194,7 +194,7 @@
     <!-- FINGERS -->
     <!-- RIGHT HAND due to which finger is number 0 -->
     <!-- for LEFT HAND switch the sign of the **offset_origin_y** and **finger_angle_r** parameters-->
-    <xacro:macro name="allegro_hand_right" params="prefix">
+    <xacro:macro name="allegro_hand_right" params="prefix parent *origin">
         <xacro:finger
             prefix="${prefix}"
             finger_num="0"
@@ -230,8 +230,13 @@
             finger_angle_p="-${95*DEG2RAD}"
             finger_angle_y="-${90*DEG2RAD}"
             />
-        <xacro:palm_right
-            prefix="${prefix}"
-            />
+        <xacro:palm_right prefix="${prefix}"/>
+
+        <joint name="${prefix}palm_attach_joint" type="fixed">
+            <parent link="${parent}"/>
+            <child link="${prefix}palm_link"/>
+            <xacro:insert_block name="origin"/>
+            <axis xyz="0 0 1"/>
+        </joint>
     </xacro:macro>
 </robot>
