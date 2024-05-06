@@ -54,12 +54,12 @@
                  params="prefix finger_num offset_origin_x offset_origin_y offset_origin_z finger_angle_r">
 
         <!-- [LINK 0, 4, 8] -->
-        <link name="{prefix}link_${finger_num*4+0}">
+        <link name="${prefix}link_${finger_num*4+0}">
             <visual>
                 <geometry>
                     <mesh filename="package://allegro_hand_description/meshes/link_0.0.STL"/>
                 </geometry>
-                <material name="black"/>
+                <material name=""/>
             </visual>
 
             <collision>
@@ -78,25 +78,25 @@
             </inertial>
         </link>
 
-        <joint name="{prefix}joint_${finger_num*4+0}" type="revolute">
+        <joint name="${prefix}joint_${finger_num*4+0}" type="revolute">
             <axis xyz="0 0 1"/>
             <limit effort="15" velocity="7"
                    lower="${limit_0_low+joint_safety_margin}"
                    upper="${limit_0_up-joint_safety_margin}"/>
-            <parent link="{prefix}palm_link"/>
-            <child link="{prefix}link_${finger_num*4+0}"/>
+            <parent link="${prefix}palm_link"/>
+            <child link="${prefix}link_${finger_num*4+0}"/>
             <origin rpy="${finger_angle_r} 0 0"
                     xyz="${offset_origin_x} ${offset_origin_y} ${offset_origin_z}"/>
             <dynamics damping="3" friction="10"/>
         </joint>
 
         <!-- [LINK 1, 5, 9] -->
-        <link name="{prefix}link_${finger_num*4+1}">
+        <link name="${prefix}link_${finger_num*4+1}">
             <visual>
                 <geometry>
                     <mesh filename="package://allegro_hand_description/meshes/link_1.0.STL"/>
                 </geometry>
-                <material name="black"/>
+                <material name=""/>
             </visual>
 
             <collision>
@@ -114,24 +114,24 @@
             </inertial>
         </link>
 
-        <joint name="{prefix}joint_${finger_num*4+1}" type="revolute">
+        <joint name="${prefix}joint_${finger_num*4+1}" type="revolute">
             <limit effort="15" velocity="7"
                    lower="${limit_1_low+joint_safety_margin}"
                    upper="${limit_1_up-joint_safety_margin}"/>
             <axis xyz="0 1 0"/>
-            <parent link="{prefix}link_${finger_num*4+0}"/>
-            <child link="{prefix}link_${finger_num*4+1}"/>
+            <parent link="${prefix}link_${finger_num*4+0}"/>
+            <child link="${prefix}link_${finger_num*4+1}"/>
             <origin xyz="0 0 ${link0_z}"/>
             <dynamics damping="3" friction="5"/>
         </joint>
 
         <!-- [LINK 2, 6, 10]-->
-        <link name="{prefix}link_${finger_num*4+2}">
+        <link name="${prefix}link_${finger_num*4+2}">
             <visual>
                 <geometry>
                     <mesh filename="package://allegro_hand_description/meshes/link_2.0.STL"/>
                 </geometry>
-                <material name="black"/>
+                <material name=""/>
             </visual>
 
             <collision>
@@ -150,24 +150,24 @@
             </inertial>
         </link>
 
-        <joint name="{prefix}joint_${finger_num*4+2}" type="revolute">
+        <joint name="${prefix}joint_${finger_num*4+2}" type="revolute">
             <axis xyz="0 1 0"/>
             <limit effort="15" velocity="7"
                    lower="${limit_2_low+joint_safety_margin}"
                    upper="${limit_2_up-joint_safety_margin}"/>
-            <parent link="{prefix}link_${finger_num*4+1}"/>
-            <child link="{prefix}link_${finger_num*4+2}"/>
+            <parent link="${prefix}link_${finger_num*4+1}"/>
+            <child link="${prefix}link_${finger_num*4+2}"/>
             <origin xyz="0 0 ${link1_z}"/>
             <dynamics damping="8" friction="10"/>
         </joint>
 
         <!-- [LINK 3, 7, 11] -->
-        <link name="{prefix}link_${finger_num*4+3}">
+        <link name="${prefix}link_${finger_num*4+3}">
             <visual>
                 <geometry>
                     <mesh filename="package://allegro_hand_description/meshes/link_3.0.STL"/>
                 </geometry>
-                <material name="black"/>
+                <material name=""/>
             </visual>
 
             <collision>
@@ -186,13 +186,13 @@
             </inertial>
         </link>
 
-        <joint name="{prefix}joint_${finger_num*4+3}" type="revolute">
+        <joint name="${prefix}joint_${finger_num*4+3}" type="revolute">
             <axis xyz="0 1 0"/>
             <limit effort="15" velocity="7"
                    lower="${limit_3_low+joint_safety_margin}"
                    upper="${limit_3_up-joint_safety_margin}"/>
-            <parent link="{prefix}link_${finger_num*4+2}"/>
-            <child link="{prefix}link_${finger_num*4+3}"/>
+            <parent link="${prefix}link_${finger_num*4+2}"/>
+            <child link="${prefix}link_${finger_num*4+3}"/>
             <origin xyz="0 0 ${link2_z}"/>
             <dynamics damping="10" friction="12"/>
         </joint>
