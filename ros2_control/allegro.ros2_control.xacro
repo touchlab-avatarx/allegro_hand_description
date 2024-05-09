@@ -1,0 +1,48 @@
+<?xml version="1.0"?>
+<robot xmlns:xacro="http://www.ros.org/wiki/xacro">
+
+  <xacro:macro name="joint_hw" params="joint_num prefix">
+    <joint name="${prefix}joint_${joint_num}">
+      <command_interface name="effort"/>
+      <state_interface name="position"/>
+      <state_interface name="velocity"/>
+    </joint>
+  </xacro:macro>
+
+  <xacro:macro name="allegro_ros2_control" params="name prefix port hand_id use_mock_hardware:=^|false">
+    <ros2_control name="${name}" type="system">
+      <xacro:unless value="${use_mock_hardware}">
+        <hardware>
+          <plugin>allegro_robot_driver/AllegroEffortHardwareInterface</plugin>
+          <param name="port">${port}</param>
+          <param name="hand_id">${hand_id}</param>
+        </hardware>
+      </xacro:unless>
+      <xacro:if value="${use_mock_hardware}">
+        <hardware>
+          <plugin>mock_components/GenericSystem</plugin>
+          <param name="calculate_dynamics">true</param>
+        </hardware>
+      </xacro:if>
+
+      <xacro:joint_hw joint_num="0"/>
+      <xacro:joint_hw joint_num="1"/>
+      <xacro:joint_hw joint_num="2"/>
+      <xacro:joint_hw joint_num="3"/>
+      <xacro:joint_hw joint_num="4"/>
+      <xacro:joint_hw joint_num="5"/>
+      <xacro:joint_hw joint_num="6"/>
+      <xacro:joint_hw joint_num="7"/>
+      <xacro:joint_hw joint_num="8"/>
+      <xacro:joint_hw joint_num="9"/>
+      <xacro:joint_hw joint_num="10"/>
+      <xacro:joint_hw joint_num="11"/>
+      <xacro:joint_hw joint_num="12"/>
+      <xacro:joint_hw joint_num="13"/>
+      <xacro:joint_hw joint_num="14"/>
+      <xacro:joint_hw joint_num="15"/>
+    </ros2_control>
+
+  </xacro:macro>
+
+</robot>
