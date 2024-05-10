@@ -9,7 +9,7 @@
     <xacro:include filename="allegro_hand_description_right.xacro"/>
     <xacro:include filename="allegro_fingertip.xacro"/>
 
-    <xacro::include filename="$(find allegro_hand_description)/ros2_control/allegro.ros2_control.xacro"/>
+    <xacro:include filename="$(find allegro_hand_description)/ros2_control/allegro.ros2_control.xacro"/>
 
     <link name="world"></link>
 

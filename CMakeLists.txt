@@ -8,7 +8,7 @@ endif()
 find_package(ament_cmake REQUIRED)
 
 install(
-  DIRECTORY config urdf launch meshes
+  DIRECTORY config urdf launch meshes ros2_control
   DESTINATION share/${PROJECT_NAME}
 )
 

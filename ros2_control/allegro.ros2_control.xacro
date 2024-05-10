@@ -9,7 +9,7 @@
     </joint>
   </xacro:macro>
 
-  <xacro:macro name="allegro_ros2_control" params="name prefix port hand_id use_mock_hardware:=^|false">
+  <xacro:macro name="allegro_ros2_control" params="name prefix port hand_id use_mock_hardware">
     <ros2_control name="${name}" type="system">
       <xacro:unless value="${use_mock_hardware}">
         <hardware>
@@ -25,22 +25,22 @@
         </hardware>
       </xacro:if>
 
-      <xacro:joint_hw joint_num="0"/>
-      <xacro:joint_hw joint_num="1"/>
-      <xacro:joint_hw joint_num="2"/>
-      <xacro:joint_hw joint_num="3"/>
-      <xacro:joint_hw joint_num="4"/>
-      <xacro:joint_hw joint_num="5"/>
-      <xacro:joint_hw joint_num="6"/>
-      <xacro:joint_hw joint_num="7"/>
-      <xacro:joint_hw joint_num="8"/>
-      <xacro:joint_hw joint_num="9"/>
-      <xacro:joint_hw joint_num="10"/>
-      <xacro:joint_hw joint_num="11"/>
-      <xacro:joint_hw joint_num="12"/>
-      <xacro:joint_hw joint_num="13"/>
-      <xacro:joint_hw joint_num="14"/>
-      <xacro:joint_hw joint_num="15"/>
+      <xacro:joint_hw joint_num="0" prefix="${prefix}"/>
+      <xacro:joint_hw joint_num="1" prefix="${prefix}"/>
+      <xacro:joint_hw joint_num="2" prefix="${prefix}"/>
+      <xacro:joint_hw joint_num="3" prefix="${prefix}"/>
+      <xacro:joint_hw joint_num="4" prefix="${prefix}"/>
+      <xacro:joint_hw joint_num="5" prefix="${prefix}"/>
+      <xacro:joint_hw joint_num="6" prefix="${prefix}"/>
+      <xacro:joint_hw joint_num="7" prefix="${prefix}"/>
+      <xacro:joint_hw joint_num="8" prefix="${prefix}"/>
+      <xacro:joint_hw joint_num="9" prefix="${prefix}"/>
+      <xacro:joint_hw joint_num="10" prefix="${prefix}"/>
+      <xacro:joint_hw joint_num="11" prefix="${prefix}"/>
+      <xacro:joint_hw joint_num="12" prefix="${prefix}"/>
+      <xacro:joint_hw joint_num="13" prefix="${prefix}"/>
+      <xacro:joint_hw joint_num="14" prefix="${prefix}"/>
+      <xacro:joint_hw joint_num="15" prefix="${prefix}"/>
     </ros2_control>
 
   </xacro:macro>
