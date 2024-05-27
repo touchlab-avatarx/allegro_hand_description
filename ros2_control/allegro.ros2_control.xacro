@@ -16,6 +16,22 @@
           <plugin>allegro_robot_driver/AllegroEffortHardwareInterface</plugin>
           <param name="port">${port}</param>
           <param name="hand_id">${hand_id}</param>
+          <param name="joint_0_offset">0.0</param>
+          <param name="joint_1_offset">0.0</param>
+          <param name="joint_2_offset">0.0</param>
+          <param name="joint_3_offset">0.0</param>
+          <param name="joint_4_offset">0.0</param>
+          <param name="joint_5_offset">0.0</param>
+          <param name="joint_6_offset">0.0</param>
+          <param name="joint_7_offset">0.0</param>
+          <param name="joint_8_offset">0.0</param>
+          <param name="joint_9_offset">0.0</param>
+          <param name="joint_10_offset">0.0</param>
+          <param name="joint_11_offset">0.0</param>
+          <param name="joint_12_offset">0.0</param>
+          <param name="joint_13_offset">0.0</param>
+          <param name="joint_14_offset">0.0</param>
+          <param name="joint_15_offset">0.0</param>
         </xacro:unless>
         <xacro:if value="${use_mock_hardware}">
           <plugin>mock_components/GenericSystem</plugin>
