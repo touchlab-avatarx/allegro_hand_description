@@ -1,8 +1,8 @@
 <?xml version="1.0"?>
 <robot xmlns:xacro="http://wiki.ros.org/xacro" name="allegro_hand_right">
 
-    <xacro:include filename="allegro_hand_description_right.xacro"/>
-    <xacro:include filename="allegro_fingertip.xacro"/>
+    <xacro:include filename="$(find allegro_hand_description)/urdf/allegro_hand_description_right.xacro"/>
+    <xacro:include filename="$(find allegro_hand_description)/urdf/allegro_fingertip.xacro"/>
     <link name="world"></link>
 
     <xacro:allegro_hand_right prefix="" parent="world">
