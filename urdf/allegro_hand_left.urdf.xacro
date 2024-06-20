@@ -6,8 +6,8 @@
     <xacro:arg name="hand_id" default="0" />
     <xacro:arg name="use_mock_hardware" default="false"/>
 
-    <xacro:include filename="allegro_hand_description_left.xacro"/>
-    <xacro:include filename="allegro_fingertip.xacro"/>
+    <xacro:include filename="$(find allegro_hand_description)/urdf/allegro_hand_description_left.xacro"/>
+    <xacro:include filename="$(find allegro_hand_description)/urdf/allegro_fingertip.xacro"/>
 
     <xacro::include filename="$(find allegro_hand_description)/ros2_control/allegro.ros2_control.xacro"/>
 
