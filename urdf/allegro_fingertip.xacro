@@ -38,7 +38,7 @@
     </xacro:macro>
 
     <xacro:macro name="allegro_finger_tip" params="prefix finger_num">
-        <link name="link_${finger_num*4+3}_tip">
+        <link name="${prefix}link_${finger_num*4+3}_tip">
             <visual>
                 <geometry>
                     <mesh filename="package://allegro_hand_description/meshes/link_3.0_tip.STL"/>
@@ -63,9 +63,9 @@
             </inertial>
         </link>
 
-        <joint name="joint_${finger_num*4+3}_tip" type="fixed">
-            <parent link="link_${finger_num*4+3}"/>
-            <child link="link_${finger_num*4+3}_tip"/>
+        <joint name="${prefix}joint_${finger_num*4+3}_tip" type="fixed">
+            <parent link="${prefix}link_${finger_num*4+3}"/>
+            <child link="${prefix}link_${finger_num*4+3}_tip"/>
             <origin rpy="0 0 0" xyz="0 0 ${link3_z-fingerTip_r}"/>
         </joint>
     </xacro:macro>
