@@ -1,0 +1,72 @@
+<?xml version="1.0"?>
+<robot xmlns:xacro="http://wiki.ros.org/xacro">
+    <xacro:include filename="allegro_common.xacro" />
+
+    <xacro:macro name="allegro_thumb_tip" params="prefix finger_num">
+        <link name="${prefix}link_${finger_num*4+3}_tip">
+            <visual>
+                <geometry>
+                    <mesh filename="package://allegro_hand_description/meshes/Honda_v15.STL"/>
+                </geometry>
+                <material name="white">
+                    <color rgba=".9 .9 .9 1"/>
+                </material>
+            </visual>
+
+            <collision>
+                <geometry>
+                    <sphere radius="${fingerTip_r}"/>
+                </geometry>
+                <origin rpy="0 0 0" xyz="0 0 0"/>
+            </collision>
+
+            <inertial>
+              <mass value="0.0168" />
+              <origin xyz="0 0 0" rpy="0 0 0"/>
+              <inertia ixx="9.68e-07" ixy="0" ixz="0"
+                       iyy="9.68e-07" iyz="0"
+                       izz="9.68e-07" />
+            </inertial>
+        </link>
+
+        <joint name="${prefix}joint_${finger_num*4+3}_tip" type="fixed">
+            <parent link="${prefix}link_${finger_num*4+3}"/>
+            <child link="${prefix}link_${finger_num*4+3}_tip"/>
+            <origin rpy="1.57 0 1.57 " xyz="0 0 0.0315"/>
+        </joint>
+    </xacro:macro>
+
+    <xacro:macro name="allegro_finger_tip" params="prefix finger_num">
+        <link name="${prefix}link_${finger_num*4+3}_tip">
+            <visual>
+                <geometry>
+                    <mesh filename="package://allegro_hand_description/meshes/Honda_v15.STL"/>
+                </geometry>
+                <material name="white">
+                    <color rgba=".9 .9 .9 1"/>
+                </material>
+            </visual>
+
+            <collision>
+                <geometry>
+                    <sphere radius="${fingerTip_r}"/>
+                </geometry>
+            </collision>
+
+            <inertial>
+              <mass value="0.0168" />
+              <origin xyz="0 0 0" rpy="0 0 0"/>
+              <inertia ixx="9.68e-07" ixy="0" ixz="0"
+                       iyy="9.68e-07" iyz="0"
+                       izz="9.68e-07" />
+            </inertial>
+        </link>
+
+        <joint name="${prefix}joint_${finger_num*4+3}_tip" type="fixed">
+            <parent link="${prefix}link_${finger_num*4+3}"/>
+            <child link="${prefix}link_${finger_num*4+3}_tip"/>
+            <origin rpy="1.57 0 1.57 " xyz="0 0 0.0157"/>
+        </joint>
+    </xacro:macro>
+
+</robot>
