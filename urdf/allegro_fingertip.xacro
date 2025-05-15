@@ -6,7 +6,7 @@
         <link name="${prefix}link_${finger_num*4+3}_tip">
             <visual>
                 <geometry>
-                    <mesh filename="package://allegro_hand_description/meshes/link_15.0_tip.STL"/>
+                    <mesh filename="package://allegro_hand_description/meshes/link_15_0_tip.STL"/>
                 </geometry>
 
                 <material name="white">
@@ -41,7 +41,7 @@
         <link name="${prefix}link_${finger_num*4+3}_tip">
             <visual>
                 <geometry>
-                    <mesh filename="package://allegro_hand_description/meshes/link_3.0_tip.STL"/>
+                    <mesh filename="package://allegro_hand_description/meshes/link_3_0_tip.STL"/>
                 </geometry>
                 <material name="white">
                     <color rgba=".9 .9 .9 1"/>
