@@ -1,6 +1,9 @@
 <?xml version="1.0"?>
 <robot xmlns:xacro="http://www.ros.org/wiki/xacro" name="allegro_hand_left">
 
+    <xacro:arg name="torque_limit" default="1.0" />
+    <xacro:arg name="velocity_limit" default="5.0" />
+
     <xacro:property name="DEG2RAD" value="0.01745329251"/>
 
     <!-- ======================== BASE PARAMS ========================= -->
@@ -49,6 +52,9 @@
     <xacro:property name="limit_2_t_low" value="-0.289"/>
     <xacro:property name="limit_3_t_up" value="1.819"/>
     <xacro:property name="limit_3_t_low" value="-0.262"/>
+    <xacro:property name="torque_limit" value="$(arg torque_limit)"/>
+    <xacro:property name="velocity_limit" value="$(arg velocity_limit)"/>
+
     <!-- THREE FINGER MACRO -->
     <xacro:macro name="finger"
                  params="prefix finger_num offset_origin_x offset_origin_y offset_origin_z finger_angle_r">
@@ -57,7 +63,7 @@
         <link name="${prefix}link_${finger_num*4+0}">
             <visual>
                 <geometry>
-                    <mesh filename="package://allegro_hand_description/meshes/link_0.0.STL"/>
+                    <mesh filename="package://allegro_hand_description/meshes/link_0_0.STL"/>
                 </geometry>
                 <material name=""/>
             </visual>
@@ -72,15 +78,15 @@
             <inertial>
               <mass value="0.0119" />
               <origin xyz="0 0 0" rpy="0 0 0"/>
-              <inertia ixx="1.01666658333e-06" ixy="0.0" ixz="0.0"
-                       iyy="6.47677333333e-07" iyz="0.0"
-                       izz="1.01666658333e-06" />
+              <inertia ixx="1.01666658333e-4" ixy="0.0" ixz="0.0"
+                       iyy="1.47677333333e-4" iyz="0.0"
+                       izz="1.01666658333e-4" />
             </inertial>
         </link>
 
         <joint name="${prefix}joint_${finger_num*4+0}" type="revolute">
             <axis xyz="0 0 1"/>
-            <limit effort="15" velocity="7"
+            <limit effort="${torque_limit}" velocity="${velocity_limit}"
                    lower="${limit_0_low+joint_safety_margin}"
                    upper="${limit_0_up-joint_safety_margin}"/>
             <parent link="${prefix}palm_link"/>
@@ -94,7 +100,7 @@
         <link name="${prefix}link_${finger_num*4+1}">
             <visual>
                 <geometry>
-                    <mesh filename="package://allegro_hand_description/meshes/link_1.0.STL"/>
+                    <mesh filename="package://allegro_hand_description/meshes/link_1_0.STL"/>
                 </geometry>
                 <material name=""/>
             </visual>
@@ -108,14 +114,14 @@
             <inertial>
               <mass value="0.065" />
               <origin xyz="0 0 0" rpy="0 0 0"/>
-              <inertia ixx="7.95654166667e-05" ixy="1.7199e-05" ixz="8.75875e-06"
-                       iyy="2.47088833333e-05" iyz="2.413125e-05"
-                       izz="7.95654166667e-05" />
+              <inertia ixx="7.95654166667e-4" ixy="0" ixz="0"
+                       iyy="2.47088833333e-4" iyz="0"
+                       izz="7.95654166667e-4" />
             </inertial>
         </link>
 
         <joint name="${prefix}joint_${finger_num*4+1}" type="revolute">
-            <limit effort="15" velocity="7"
+            <limit effort="${torque_limit}" velocity="${velocity_limit}"
                    lower="${limit_1_low+joint_safety_margin}"
                    upper="${limit_1_up-joint_safety_margin}"/>
             <axis xyz="0 1 0"/>
@@ -129,7 +135,7 @@
         <link name="${prefix}link_${finger_num*4+2}">
             <visual>
                 <geometry>
-                    <mesh filename="package://allegro_hand_description/meshes/link_2.0.STL"/>
+                    <mesh filename="package://allegro_hand_description/meshes/link_2_0.STL"/>
                 </geometry>
                 <material name=""/>
             </visual>
@@ -144,15 +150,15 @@
             <inertial>
               <mass value="0.0355" />
               <origin xyz="0 0 0" rpy="0 0 0"/>
-              <inertia ixx="2.63979183333e-05" ixy="6.67968e-06" ixz="4.783625e-06"
-                       iyy="1.34948516667e-05" iyz="9.372e-06"
-                       izz="2.63979183333e-05" />
+              <inertia ixx="2.63979183333e-4" ixy="0" ixz="0"
+                       iyy="1.34948516667e-4" iyz="0"
+                       izz="2.63979183333e-4" />
             </inertial>
         </link>
 
         <joint name="${prefix}joint_${finger_num*4+2}" type="revolute">
             <axis xyz="0 1 0"/>
-            <limit effort="15" velocity="7"
+            <limit effort="${torque_limit}" velocity="${velocity_limit}"
                    lower="${limit_2_low+joint_safety_margin}"
                    upper="${limit_2_up-joint_safety_margin}"/>
             <parent link="${prefix}link_${finger_num*4+1}"/>
@@ -165,7 +171,7 @@
         <link name="${prefix}link_${finger_num*4+3}">
             <visual>
                 <geometry>
-                    <mesh filename="package://allegro_hand_description/meshes/link_3.0.STL"/>
+                    <mesh filename="package://allegro_hand_description/meshes/link_3_0.STL"/>
                 </geometry>
                 <material name=""/>
             </visual>
@@ -180,15 +186,15 @@
             <inertial>
               <mass value="0.0096" />
               <origin xyz="0 0 0" rpy="0 0 0"/>
-              <inertia ixx="4.701248e-06" ixy="1.255968e-06" ixz="1.2936e-06"
-                       iyy="3.649312e-06" iyz="1.7622e-06"
-                       izz="4.701248e-06" />
+              <inertia ixx="4.701248e-4" ixy="0" ixz="0"
+                       iyy="3.649312e-4" iyz="0"
+                       izz="4.701248e-4" />
             </inertial>
         </link>
 
         <joint name="${prefix}joint_${finger_num*4+3}" type="revolute">
             <axis xyz="0 1 0"/>
-            <limit effort="15" velocity="7"
+            <limit effort="${torque_limit}" velocity="${velocity_limit}"
                    lower="${limit_3_low+joint_safety_margin}"
                    upper="${limit_3_up-joint_safety_margin}"/>
             <parent link="${prefix}link_${finger_num*4+2}"/>
